@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GCB | Formulario 1A — Autoevaluación de Recursos y Procesos</title>
+    <link rel="preconnect" href="https://gcb.edu.co" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+
+    <!-- ── PORTADA ──────────────────────────────────────────────── -->
+    <div class="cover" id="cover">
+      <div class="coverGlow coverGlow1"></div>
+      <div class="coverGlow coverGlow2"></div>
+      <div class="coverGlow coverGlow3"></div>
+
+      <div class="coverInner">
+        <img
+          class="coverLogo"
+          src="https://gcb.edu.co/plantilla/images/gcb/We_are/GCB_BlancoP.png"
+          alt="GCB"
+          loading="eager"
+          decoding="async"
+        />
+
+        <div class="coverEyebrow">
+          Ministerio de Educación Nacional · Guía 4, Versión 11 · 2025
+        </div>
+
+        <h1 class="coverTitle">FORMULARIO 1A</h1>
+        <h2 class="coverSubtitle">
+          Evaluación de Recursos y Procesos — Colegios<br>
+          <span class="coverSubtitleLight">Autoevaluación de Recursos</span>
+        </h2>
+
+        <div class="coverDivider"></div>
+
+        <div class="coverInstitution">
+          <span class="coverInstName">Colegio Gimnasio Colombo Británico</span>
+          <span class="coverInstTag">GCB</span>
+        </div>
+
+        <button class="coverBtn" id="coverStartBtn" type="button">
+          Comenzar evaluación →
+        </button>
+
+        <div class="coverStats" id="coverStats"></div>
+
+        <div class="coverLegal">
+          Páginas 34–85 · Guía 4 MEN · Datos guardados localmente en este navegador
+        </div>
+      </div>
+    </div>
+
+    <!-- ── APP ──────────────────────────────────────────────────── -->
+    <div class="app" id="app">
+
+      <div class="stickyTop">
+        <header class="topbar">
+          <div class="brand">
+            <img
+              class="brandLogo"
+              src="https://gcb.edu.co/plantilla/images/gcb/We_are/GCB_BlancoP.png"
+              alt="GCB"
+              loading="eager"
+              decoding="async"
+            />
+            <div class="brandText">
+              <div class="brandTitle">Formulario 1A · Autoevaluación GCB</div>
+              <div class="brandSubtitle">Evaluación de Recursos y Procesos — Colegios</div>
+            </div>
+          </div>
+
+          <div class="topbarRight">
+            <div class="pill" id="progressPill" aria-live="polite"></div>
+            <button class="iconBtn iconBtnReset" id="resetBtn" type="button"
+              aria-label="Reiniciar evaluación" title="Borrar respuestas y volver al inicio">
+              ↺
+            </button>
+            <button class="iconBtn" id="helpBtn" type="button"
+              aria-haspopup="dialog" aria-controls="helpDialog" aria-label="Ayuda">
+              ?
+            </button>
+          </div>
+        </header>
+
+        <div class="globalProgressBar" aria-hidden="true">
+          <div class="globalProgressFill" id="progressBarFill"></div>
+        </div>
+      </div>
+
+      <main class="layout">
+        <aside class="sidebar" aria-label="Secciones">
+          <div class="sidebarHeader">
+            <div class="sidebarTitle">Secciones</div>
+            <div class="sidebarHint">Clic para saltar</div>
+          </div>
+          <nav class="sectionList" id="sectionList"></nav>
+        </aside>
+
+        <section class="stage" aria-label="Pregunta actual">
+          <div class="stageBg"></div>
+
+          <div class="card" id="card" role="group" aria-label="Tarjeta de pregunta">
+
+            <div class="cardTop">
+              <div class="kicker" id="kicker"></div>
+              <div class="chipRow">
+                <div class="chip" id="chipSection"></div>
+                <div class="chip chipSoft" id="chipCode"></div>
+              </div>
+            </div>
+
+            <div class="cardBody">
+
+              <!-- LEFT: pregunta + opciones -->
+              <div class="cardLeft">
+                <h1 class="question" id="question"></h1>
+                <div class="note" id="note"></div>
+                <div class="options" id="options" role="radiogroup" aria-label="Opciones"></div>
+              </div>
+
+              <!-- RIGHT: insights -->
+              <div class="cardRight">
+                <div class="insightGrid">
+
+                  <!-- Score ring -->
+                  <div class="insightCard" id="scoreCard" aria-live="polite">
+                    <div class="insightTitle">Cálculo del puntaje</div>
+                    <div class="scoreRow">
+                      <div class="scoreRingWrap">
+                        <svg class="scoreRingSvg" viewBox="0 0 100 100" id="scoreRingSvg">
+                          <circle class="scoreRingBg" cx="50" cy="50" r="38"/>
+                          <circle class="scoreRingFill" cx="50" cy="50" r="38" id="scoreRingFill"/>
+                        </svg>
+                        <div class="scoreRingLabel" id="scoreBig">—</div>
+                      </div>
+                      <div class="scoreMeta">
+                        <div class="scoreLabel" id="scoreLabel">Selecciona una opción</div>
+                        <div class="scoreExplain" id="scoreExplain"></div>
+                      </div>
+                    </div>
+                    <div class="formulaWrap">
+                      <button class="formulaToggle" id="formulaToggle" type="button">
+                        <span>Ver fórmula / criterio</span>
+                        <span class="formulaArrow" id="formulaArrow">▾</span>
+                      </button>
+                      <div class="formula" id="formula"></div>
+                    </div>
+                  </div>
+
+                  <!-- Proyección -->
+                  <div class="insightCard">
+                    <div class="insightTitle">Proyección acumulada</div>
+                    <canvas class="chart" id="chart" width="860" height="230"
+                      aria-label="Gráfica de puntajes acumulados"></canvas>
+                    <div class="chartLegend" id="chartLegend"></div>
+                  </div>
+
+                  <!-- Clasificación -->
+                  <div class="insightCard" id="classCard" aria-live="polite">
+                    <div class="insightTitle">Clasificación — Guía 4, Cuadros 1–6</div>
+                    <div class="classControls">
+                      <label class="classSelectLabel" for="comboSelect">Niveles ofrecidos</label>
+                      <select class="classSelect" id="comboSelect">
+                        <option value="PBM">Cuadro 1 — Preescolar + Básica + Media</option>
+                        <option value="PB">Cuadro 2 — Preescolar + Básica</option>
+                        <option value="PM">Cuadro 3 — Preescolar + Media</option>
+                        <option value="BM">Cuadro 4 — Básica + Media</option>
+                        <option value="B">Cuadro 5 — Solo Básica</option>
+                        <option value="M">Cuadro 6 — Solo Media</option>
+                      </select>
+                    </div>
+                    <div class="classRow">
+                      <div class="classBadge" id="classBadge">—</div>
+                      <div class="classMeta">
+                        <div class="classTitle" id="classTitle">Aún sin clasificar</div>
+                        <div class="classExplain" id="classExplain"></div>
+                      </div>
+                    </div>
+                    <canvas class="matrix" id="matrix" width="860" height="280"
+                      aria-label="Matriz recursos vs procesos"></canvas>
+                    <div class="chartLegend matrixLegend" id="matrixLegend"></div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+
+            <div class="cardBottom">
+              <div class="hint">
+                <kbd>←</kbd><kbd>→</kbd> para navegar · <kbd>1</kbd>–<kbd>9</kbd> para elegir · guardado automático
+              </div>
+              <div class="navBtns">
+                <button class="navBtn" id="prevBtn" type="button" aria-label="Anterior">
+                  <span class="navArrow">←</span>
+                  <span>Anterior</span>
+                </button>
+                <button class="navBtn navBtnPrimary" id="nextBtn" type="button" aria-label="Siguiente">
+                  <span>Siguiente</span>
+                  <span class="navArrow">→</span>
+                </button>
+              </div>
+            </div>
+
+          </div>
+        </section>
+      </main>
+
+      <dialog class="dialog" id="helpDialog" aria-label="Ayuda">
+        <div class="dialogHeader">
+          <div class="dialogTitle">Ayuda rápida</div>
+          <button class="iconBtn" id="closeHelpBtn" type="button" aria-label="Cerrar">✕</button>
+        </div>
+        <div class="dialogBody">
+          <ul class="dialogList">
+            <li><b>Navegación</b>: flechas del teclado ← → o los botones Anterior / Siguiente.</li>
+            <li><b>Selección rápida</b>: teclas <kbd>1</kbd>–<kbd>9</kbd> eligen opciones numeradas.</li>
+            <li><b>Fórmula</b>: clic en "Ver fórmula / criterio" para ver el criterio exacto de la Guía 4.</li>
+            <li><b>Guardar</b>: respuestas en <code>localStorage</code> (solo en este equipo/navegador).</li>
+            <li><b>Reiniciar</b>: botón ↺ en la barra superior borra todo y vuelve al inicio.</li>
+            <li><b>Accesibilidad</b>: usa <kbd>Tab</kbd> y <kbd>Enter</kbd> para operar con teclado.</li>
+          </ul>
+        </div>
+      </dialog>
+
+    </div>
+
+    <script src="./sourceText.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

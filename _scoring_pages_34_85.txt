@@ -1,0 +1,4013 @@
+
+
+===== PAGE 34 =====
+ 
+34 
+ 3. FORMULARIO 1A. EVALUACIÓN DE RECURSOS Y PROCESOS - COLEGIOS  
+ 
+La evaluación institucional en establecimientos educativos que ofrecen diferentes niveles de 
+educación formal en los términos del artículo 11 de la Ley 115 de 1994 (todos los niveles, o una 
+combinación de ellos), comúnmente conocidos como colegios, se efec túa aplicando el Formulario 1A, 
+en el que se registra la información para establecer las condiciones de calidad del servicio ofrecido en 
+este tipo de establecimientos educativos.  
+ 
+3.1 Evaluación de recursos  
+ 
+En esta sección la aplicación EVI muestra algunos indicadores calculados a partir del diligenciamiento 
+de la autoevaluación de los recursos humanos y físicos reportados por el establecimiento educativo en 
+la primera sección y solicita el diligenciamiento d e otras variables.  
+ 
+En caso de admitir registro en varias casillas se le indicará expresamente en las instrucciones del 
+respectivo indicador.  
+ 
+ 
+➢ Niveles y tiempo ( Preguntas 1 a 3) . 
+ 
+En este aparte se presentan tres indicadores ya calculados con la información previa: i) oferta de 
+niveles, ii) jornada diurna y iii) horas efectivas ofrecidas por nivel educativo, los cuales son puntuados 
+de la siguiente manera:  
+ 
+➢ Niveles ( Pregunta 1) . 
+ 
+Si tiene oferta completa de todos los niveles, se asignan 3 puntos;  
+Si ofrece al menos un grado de preescolar y uno de básica  o media , se asignan 2 puntos ; 
+Si tiene otra combinación se asigna 1 punto.  
+ 
+➢ Jornada única ( Pregunta 2) . 
+ 
+Marque “Si”, si el establecimiento ofrece jornada única diurna (una sola jornada en el día sin contar la 
+nocturna): 10 puntos . 
+Si ofrece más de una jornada en el día, su puntaje es 0.  
+ 
+➢ Horas efectivas por nivel ( Pregunta 3) . 
+ 
+El indicador calculado tiene en cuenta el cumplimento de la intensidad horaria de acuerdo con las 
+horas efectivas (sesenta minutos) establecidas en la Resolución 1730 de 2004:  
+ 
+800 horas en preescolar,  
+1.000 en básica primaria y  
+1.200 en básica secundaria y media.  
+
+===== PAGE 35 =====
+ 
+35 
+ Estas horas no incluyen el tiempo de descansos, recreos o almuerzo.  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Horas efectivas por nivel.  Cumple total de horas en todos los niveles  5 
+No cumple total de horas en algún nivel  0 
+ 
+Si cumple en algunos de los niveles o no cumple es 0 puntos y el establecimiento es clasificado en 
+régimen controlado.  
+ 
+ 
+➢ Recursos humanos ( Preguntas 4 a 9) . 
+ 
+➢ Relación de estudiantes por docente equivalente de tiempo completo ( Pregunta 4) . 
+ 
+La relación de estudiantes por docente se obtiene dividiendo el total de estudiantes matriculados en el 
+colegio, entre  el número de docentes y directivos docentes equivalente a tiempo completo registrados 
+en el formulario 1.  
+ 
+Relación de estudiantes por 
+docente  = Estudiantes matriculados  
+Docentes y directivos a tiempo completo  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Relación estudiante docente (RAD) RAD ≤ 20 8 
+20 < RAD ≤ 30 5 
+30 < RAD ≤ 35 2 
+RAD > 35 0 
+ 
+➢ Relación de estudiantes por personal de apoyo equivalente a tiempo completo ( Pregunta 
+5). 
+ 
+La relación de estudiantes por personal de apoyo se obtiene dividiendo el total de estudiantes 
+matriculados, entre  el número de personas de apoyo equivalentes a tiempo completo que trabajan en 
+el colegio.  
+ 
+Relación de estudiantes por 
+personal de apoyo  = Estudiantes matriculados  
+Personal  de apoyo  a tiempo completo  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Relaciones estudiantes por personal 
+de apoyo a tiempo completo (REPA)  REPA ≤ 200 3 
+200 < REPA ≤ 350 2 
+350 < REPA ≤ 5 00 1 
+REPA > 5 00 0 
+ 
+
+===== PAGE 36 =====
+ 
+36 
+ ➢ Relación de estudiantes por personal administrativo equivalente a tiempo completo 
+(Pregunta 6) . 
+ 
+La relación de estudiantes por personal administrativo se obtiene dividiendo el total de estudiantes del 
+establecimiento, entre  el número de administrativos equivalentes a tiempo completo que trabajan en 
+el colegio.  
+ 
+Relación de estudiantes por 
+personal administrativo  = Estudiantes matriculados  
+Personal administrativo a tiempo completo  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Relaciones estudiantes por personal 
+administrativo (REA)  REA ≤ 120 2 
+120 < REA ≤ 250 1 
+REA > 250 0 
+ 
+➢ Relación de estudiantes por personal de servicios generales equivalente a tiempo 
+completo ( Pregunta 7) . 
+ 
+La relación de estudiantes por trabajador de servicios generales se obtiene dividiendo el total de 
+estudiantes del establecimiento, entre  el número de personas de servicios generales equivalentes a 
+tiempo completo que trabajan en el colegio.  
+ 
+Relación de estudiantes por 
+personal S. Generales  = Estudiantes matriculados  
+Personal S. Generales a tiempo completo  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Relaciones estudiantes por personal 
+de servicios generales (RESG)  RESG  ≤ 160 2 
+RESG  > 160 0 
+ 
+➢ Años promedio de formación de los docentes y directivos docentes ( Pregunta 8) . 
+ 
+Para el cálculo de este indicador se consideran los años de formación cursados para la obtención de 
+título para el ejercicio docente, de acuerdo con lo establecido en el artículo 198 de la Ley 115 de 1994. 
+Los títulos de normalista superior contabilizan 2 años, los títulos de formación universitaria y de 
+postgrado, incluyendo a los normalistas superiores, y técnicos y tecnólogos en educación contabilizan 
+los años acreditados.  
+ 
+El número de años promedio se calcula al sumar el total de años acreditados en formación por el 
+personal docente y dividiéndolo entre  el número de personas. Ejemplo:  
+ 
+N° Nombre  Cargo  Años  formación  
+superior  
+1 Carlos  Ruiz  Rector  6 
+2 Jorge  Muñoz  Director  Área  5 
+
+===== PAGE 37 =====
+ 
+37 
+ N° Nombre  Cargo  Años  formación  
+superior  
+3 Catalina  Sánchez  Director  Área  5 
+4 Luis López  Coordinador  5 
+5 Ana  Rodríguez  Coordinador  5 
+6 Betty  Gómez  Docente  5 
+7 José  Omar  León  Docente  7 
+8 Jairo  Bernal  Docente  4 
+9 Cecilia  Delgado  Docente  3 
+10 Alberto  Parra  Docente  2* 
+TOTAL  47 
+* El docente Alberto Parra es normalista superior.  
+ 
+Años promedio de formación 
+docente  = Años promedio de formación  de docent es y 
+directivos docentes.  
+Total docentes y directivos docentes  
+ 
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Años promedio de formación docente 
+(AFD)  AFD ≥ 5  13 
+4 ≤ AFD < 5  10 
+3 ≤ AFD < 4  5 
+2 ≤ AFD < 3 3 
+AFD < 2  0 
+ 
+Si el promedio de formación de los docentes de un establecimiento educativo es inferior a dos años su 
+puntaje es cero y el colegio se clasifica en régimen controlado.  
+ 
+➢ Afiliación a Seguridad Social Integral (Pregunta 9) . 
+ 
+Se indaga por la afiliación del personal del establecimiento educativo a la Seguridad Social Integral:  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Afiliación a seguridad social integral.  Si a filiado (salud, pensión y riesgos 
+profesionales)  3 
+No afiliado  0 
+ 
+El incumplimiento de cualquiera de estos requisitos implica un puntaje de 0 y clasificación del 
+establecimiento en régimen controlado.  
+ 
+Nota : La Secretaría de Educación puede solicitar los soportes de pagos a seguridad social  como medio 
+de verificación.  
+ 
+
+===== PAGE 38 =====
+ 
+38 
+ ➢ Infraestructura física ( Preguntas 10 a 19) . 
+ 
+ 
+➢ Relación de metros cuadrados construidos por estudiante ( Pregunta 10) . 
+ 
+Esta relación se calcula dividiendo el total de metros cuadrados construidos del establecimiento, entre 
+la cantidad total de estudiantes matriculados.  
+ 
+Relación de m2 por estudiante  = Metros2 construidos del establecimiento  
+Cantidad de estudiantes  
+ 
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Relación de m2 por estudiante  
+(M2/E) M2/E ≥ 3,5  6 
+3 ≤ M2/E < 3,5  4 
+2 ≤ M2/E <3 2 
+M2/E < 2 0 
+ 
+➢ Relación de metros cuadrados de áreas recreativas y zonas libres por estudiante ( Pregunta 
+11). 
+ 
+Esta relación se calcula dividiendo el total de metros de áreas recreativas, zonas libres y canchas 
+deportivas del establecimiento, entre el total de estudiantes matriculados:  
+ 
+Relación de m2 áreas recreativas 
+y zonas libres por estudiante  = Metros2 áreas recreativas y zonas libres  
+Cantidad de estudiantes  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Relación de m2 áreas recreativas y 
+zonas libres por estudiante  
+(M2AR/E)  M2AR/E  ≥ 5 6 
+4 ≤ M2AR/E  < 5 4 
+3 ≤ M2AR/E  < 4 2 
+M2AR/E  < 3 0 
+ 
+➢ Proporción de aulas con ventilación, comodidad visual, higrotérmica y auditiva adecuadas 
+(Pregunta 12) . 
+ 
+El indicador se calcula dividiendo el número de aulas del establecimiento que ofrecen un ambiente 
+confortable (en términos de ventilación, comodidad visual, higrotérmica y auditiva) para el desarrollo 
+del servicio educativo, entre el total de aulas disponi bles para la prestación del servicio.  
+ 
+Proporción de Aulas con ventilación, 
+comodidad visual, higrotérmica y auditiva.  = Total aulas adecuadas  
+Total de aulas del establecimiento  
+ 
+ 
+
+===== PAGE 39 =====
+ 
+39 
+ Este indicador es calificado según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Aulas adecuadas (AA)  AA = 100%  6 
+80%  ≤ AA < 100%  4 
+50% ≤ AA < 80%  2 
+AA < 50% 0 
+ 
+➢ Número de estudiantes por juego sanitario (un sanitario o un orinal más un lavamanos) a su 
+servicio ( Pregunta 13) . 
+ 
+El indicador se calcula dividiendo el total de estudiantes matriculados entre el total de juegos sanitarios 
+del establecimiento.  
+ 
+No. de estudiantes por juego sanitario . = Total estudiantes matriculados  
+Total de juegos sanitarios  
+ 
+Este indicador es calificado según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+No. de estudiantes por juego 
+sanitario (ES)  ES ≤ 22  3 
+22 < ES ≤ 30 2 
+ES > 30 0 
+ 
+Si el número de estudiantes por sanitario es mayor a 30 el colegio se clasifica en régimen controlado.  
+ 
+➢ El área en metros cuadrados por juego sanitario (un sanitario o un orinal más un lavamanos) 
+a su servicio ( Pregunta 14) . 
+ 
+Entiéndase por área total de juegos sanitarios el par, es decir, la cabina sanitaria más lavamanos, más 
+sus áreas de circulación.  
+ 
+El indicador se calcula dividiendo el total de metros cuadrados de los espacios sanitarios entre el total 
+de juegos sanitarios del establecimiento.  
+ 
+Área total en metros cuadrados por juego 
+sanitario.  = Área total en metros2 
+Total de juegos sanitarios  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Áreas en M2 por juego sanitario. (M2) M2 > 2.8 3 
+M2 ≤ 2.8 0 
+ 
+Si el área total en metros cuadrados es menor que 2,8 M2 el colegio se clasifica en régimen controlado.  
+ 
+➢ Zonas incluye el área de cocina escolar ( Pregunta 15) . 
+ 
+Responda " Sí", si el Establecimiento educativo cuenta con zonas en el área de cocina escolar que se 
+relacionan.  
+
+===== PAGE 40 =====
+ 
+40 
+  
+(El establecimiento puede tener una o más zonas), el puntaje asociado corresponde a la siguiente lista:  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Zonas de área de cocina.  Zona de recibo.  1 
+Zona de almacenamiento.  1 
+Zona de preparación.  1 
+Zona de servido.  1 
+Zona de distribución de alimentos.  1 
+Zona de lavado.  1 
+Zona de disposición y clasificación de 
+residuos.  1 
+No contempla estos espacios.  0 
+Total  7 
+ 
+➢ Sala de profesores adecuada ( Pregunta 16) . 
+ 
+Indique si la sala de profesores del establecimiento educativo es adecuada para el ejercicio de las 
+labores de los docentes. Para efectos de este indicador se considera adecuada la sala de profesores si 
+su espacio y dotación permiten trabajar cómodamente a l 30% de los docentes de tiempo completo, 
+tiene un casillero para cada docente y puestos de trabajo.  
+ 
+Este indicador es calificado según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Sala de profesores adecuada . Si 2 
+No 0 
+ 
+➢ Espacio para primeros auxilios o servicio de enfermería ( Pregunta 17) . 
+ 
+Califique el servicio de enfermería según las siguientes indicaciones:  
+Tipo A:  Si existe un área especial para primeros auxilios o enfermería dotada con camilla y botiquín.  
+Tipo B:  Si, además de lo anterior, tiene un baño independiente con ducha y una enfermera idónea.  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Área par primeros auxilios o 
+enfermería.  No Tiene  0 
+Tipo A  1 
+Tipo B  2 
+ 
+➢ Sala de audiovisuales ( Pregunta 18) . 
+ 
+Califique las características de las aulas de audiovisuales según las siguientes indicaciones:  
+✓ No tiene:  Si el establecimiento no tiene ni área ni equipo adecuado para el uso de material 
+audiovisual.  
+✓ Tipo A:  Si tiene equipos de grabación y reproducción de video, audio e imágenes en distintos 
+
+===== PAGE 41 =====
+ 
+41 
+ formatos para ser usados en las aulas de clase, pero no tiene un espacio especial para 
+proyecciones.  
+✓ Tipo B:  Si usa un aula especializada, dotada con equipos para la grabación y reproducción 
+de video, audio e imágenes en distintos formatos, o si todos los salones están dotados con 
+equipo de audiovisuales.  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Sala de audiovisuales.  No Tiene  0 
+Tipo A  1 
+Tipo B  2 
+ 
+➢ Aulas especializadas ( Pregunta 19) . 
+ 
+Indique si el establecimiento ofrece aulas especializadas, diferentes a las destinadas a biblioteca, 
+laboratorio o aulas de audiovisuales. Este indicador tiene la siguiente valoración:  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Aulas especializadas.  No Tiene  0 
+Un aula  1 
+Dos aulas  2 
+Tres aulas  3 
+Cuatro o más aulas  4 
+ 
+➢ Espacio independiente para el preescolar ( Pregunta 20) . 
+ 
+Si el colegio ofrece el nivel de preescolar, señale si lo hace en un área independiente o aislada que evite 
+accidentes o agresiones a los niños del nivel preescolar.  
+ 
+Este indicador es calificado según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Espacio independiente para 
+preescolar.  Si 2 
+No 0 
+ 
+➢ Características de accesibilidad ( Pregunta 21) . 
+ 
+Señale las características que tienen los espacios que conforman las instalaciones escolares para 
+asegurar a la comunidad educativa condiciones básicas de accesibilidad, procurando la autonomía, 
+seguridad y comodidad.  
+ 
+Nota Aclaratoria:  La NTC 4595 se indica como referencia de una buena práctica para el diseño de los 
+Establecimientos Educativos, siendo un marco referencial, sin embargo, no es un requisito de mínimos 
+para su funcionamiento.  
+ 
+ 
+
+===== PAGE 42 =====
+ 
+42 
+ El establecimiento puede marcar una o varias opciones, los puntos se sumarán dependiendo de las 
+opciones que seleccione.  
+ 
+✓ Puertas  con medidas y mecanismos de apertura y seguridad, acordes con la NTC vigente.  
+✓ Circulaciones interiores  tales como corredores, rampas, escaleras, ascensores con las 
+respectivas medidas, demarcaciones y mecanismos de seguridad, acordes con la NTC 
+vigente.  
+✓ Áreas libres  como andenes, vías peatonales, áreas de parqueo, con la señalización de 
+accesibilidad y medidas de seguridad, acordes con la NTC vigente.  
+✓ Espacios interiores  que faciliten el libre desplazamiento y desarrollo de actividades 
+pedagógicas, acordes con la NTC vigente.  
+ 
+Este indicador es calificado según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Características de los Espacios.  Puertas  1 
+Circulaciones interiores  1 
+Áreas libres  1 
+Espacios interiores  1 
+Total  4 
+ 
+➢ Sistema de Gestión de la Seguridad y Salud en el Trabajo SG -SST ( Pregunta 22) . 
+ 
+Marque el estado de avance en la implementación del Sistema de Gestión de la Seguridad y Salud en 
+el Trabajo SG -SST en el establecimiento.  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Estado implementación al SG -SST  No iniciado  0 
+En proceso  1 
+Implementado  2 
+Verificado y/o con plan de mejora  3 
+ 
+ 
+➢ Recursos pedagógicos ( Preguntas 23 a 34) . 
+ 
+➢ Servicio de Biblioteca ( Pregunta 23) . 
+ 
+El servicio de biblioteca está clasificado de acuerdo con el mobiliario, localización, tipo de uso y 
+funcionamiento del espacio. Identifique el tipo de servicio de biblioteca ofrecido en el establecimiento 
+educativo según las siguientes características:  
+ 
+✓ No tiene:  Si el establecimiento educativo no tiene servicio de biblioteca de propiedad, ni por 
+convenio o arrendamiento.  
+✓ Convenio:  Si presta el servicio de biblioteca por convenio o arrendamiento, siempre y cuando 
+la biblioteca esté a menos de diez cuadras sin pasar por vías principales, o se suministre 
+
+===== PAGE 43 =====
+ 
+43 
+ regularmente transporte, sin cobro adicional a los estudiantes.  
+✓ Bibliotecas de aula - bibliobanco:  Cuando el servicio de biblioteca se encuentra en cada una 
+de las aulas de clase, de forma que los libros son los que corresponden al curso o nivel que se 
+localiza en el aula respectiva.  
+✓ Depósito de libros:  Si cuenta con un espacio exclusivo para el almacenamiento de libros, con 
+sistema de catalogación, pero sin sala de lectura.  
+✓ Depósito y sala de lectura:  Si cuenta con un espacio exclusivo para el almacenamiento de 
+libros, con sala de lectura, sistema de catalogación y consulta.  
+✓ Mixta:  Cuando el establecimiento tiene los dos tipos de biblioteca, espacio exclusivo y 
+bibliotecas de aula.  
+✓ Mixta más computadores con biblioteca virtual:  Cuando tiene adicionalmente en la biblioteca 
+computadores con software de consulta para uso de estudiantes.  
+ 
+Este indicador es calificado según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Biblioteca.  No tiene  0 
+Convenio  1 
+De aula  1 
+Bibliobanco  1 
+Depósito de libros  1 
+Depósito y sala de lectura  2 
+Mixta  2 
+Mixta más computadores con biblioteca 
+virtual  3 
+ 
+➢ Número de libros por estudiante ( Pregunta 24) . 
+ 
+Para calificar este indicador se tienen en cuenta los libros de propiedad del colegio, que se localizan en 
+la biblioteca o en los bibliobancos de aula y que fueron reportados en el formulario 1. Para los dos casos 
+debe tener un sistema de registro (inventa rio) que permita saber el tipo y cantidad de libros que posee 
+el establecimiento. El número de libros por estudiante se calcula dividiendo el número de libros 
+catalogados entre  el total de estudiantes de la jornada evaluada.  
+ 
+No. de libros por estudiante  = No. de libros catalogados  
+Total de estudiantes por jornada  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+No. de libros por estudiante (LE)  LE ≥ 8 2 
+6 ≤ LE < 8  2 
+4 ≤ LE < 6 1 
+2 ≤ LE < 4  1 
+LE < 2  0 
+ 
+ 
+ 
+
+===== PAGE 44 =====
+ 
+44 
+ ➢ Dotación adecuada de materiales educativos ( Pregunta 25) . 
+ 
+Responda "sí", si el establecimiento educativo cuenta con los materiales y/o implementos educativos 
+relacionados.  
+ 
+Para la calificación de este indicador se considera dotación adecuada de material educativo en 
+determinada área cuando está en buen estado, es actualizado y es suficiente para desarrollar los 
+objetivos del proyecto educativo institucional y obtener los log ros previstos.  
+ 
+La calificación para cada una de las áreas enumeradas es de un punto, con respecto a la dotación de 
+material educativo adecuado. La calificación máxima es 6 puntos . 
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Dotación adecuada de materiales 
+educativos . Ciencias naturales  1 
+Ciencias sociales y educación religiosa  1 
+Educación física  1 
+Matemáticas  1 
+Lengua castellana  1 
+Otros idiomas  1 
+Total  6 
+ 
+➢ Laboratorios ( Pregunta 26) . 
+ 
+El indicador considera la destinación de espacios y la dotación de materiales de laboratorio para las 
+prácticas establecidas para ciencias, química y física. En el evento de prestar el servicio que cubra los 
+requerimientos de práctica del establecimiento a  través de convenio o arrendamiento, contabilice el 
+puntaje que corresponda a las condiciones consignadas en el respectivo documento de convenio. 
+Tenga en cuenta que para asignar puntaje debe cumplir la totalidad de condiciones que se especifican 
+a continu ación:  
+ 
+✓ No tiene:  si el colegio no tiene espacio de laboratorio, o la dotación es insuficiente o 
+inadecuada para desarrollar las prácticas en los temas previstos.  
+✓ Tipo A:  si tiene un espacio de laboratorio integrado, con instalaciones y dotación suficiente 
+y adecuada para desarrollar las prácticas de Química, Física y Biología.  
+✓ Tipo B:  si existen dos áreas diferenciadas para laboratorio, una de las cuales integra las 
+prácticas para dos de las asignaturas previstas, con instalaciones y dotación suficiente y 
+adecuada para desarrollar las prácticas de Química, Física y Biología.  
+✓ Tipo C:  si tiene tres áreas especializadas, una para cada asignatura, con instalaciones y 
+dotación suficiente y adecuada para desarrollar las prácticas de Química, Física y Biología.  
+ 
+No puede considerarse con dotación suficiente y adecuada un laboratorio con menos de una salida de 
+agua, un vertedero y una salida de gas por cada cinco Estudiantes del curso promedio de básica 
+secundaria y media.  
+ 
+ 
+
+===== PAGE 45 =====
+ 
+45 
+ Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Laboratorios  No Tiene  0 
+Tipo A  1 
+Tipo B  3 
+Tipo C  5 
+ 
+ 
+➢ Número de estudiantes por computador para uso académico ( Pregunta 27) . 
+ 
+Tenga en cuenta que este cálculo se hace de acuerdo con la matrícula de la jornada y la cantidad de 
+computadores del EE. La fórmula de cálculo es:  
+ 
+No. de estudiante s por computador  =  
+Total de estudiantes de la jornada  
+Total de computadores para uso 
+académico  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+N° de estudiantes por computador 
+(ExC)  No Tiene computadores  0 
+ExC  ≥ 10 1 
+ExC  = 8 y 9  2 
+ExC  ≤ 7 3 
+ 
+ 
+➢ Computadores del área académica con conexión a Internet ( Pregunta 28) . 
+ 
+Se analiza el número de computadores con conexión a internet para el servicio de los estudiantes. 
+Tenga en cuenta que este cálculo se hace de acuerdo con la matrícula de la jornada y la cantidad de 
+computadores con conexión a internet del EE . 
+ 
+Para calcular este indicador se divide el total de estudiantes de la jornada entre el número de 
+computadores con conexión a internet según la siguiente fórmula : 
+ 
+Computador es con conexión a Internet  =  
+Total de estudiantes de la jornada  
+Total  de computadores con conexión a 
+Internet  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+No. de estudiantes por computadores 
+con conexión a internet (ExCI)  No Tiene computadores  0 
+ExC  ≥ 10 1 
+ExC  ≤ 9 3 
+ 
+
+===== PAGE 46 =====
+ 
+46 
+ ➢ Conectividad a Internet ( Pregunta 29) . 
+ 
+Señale qué tan adecuada considera la capacidad de su institución educativa en términos de 
+conectividad a Internet (ancho de banda, estabilidad, cobertura) para atender las necesidades 
+académicas y administrativas.  
+ 
+Los puntajes asociados según las opciones de respuesta son:  
+Indicador  Rango de Valores  Puntaje  
+Conectividad a Internet.  Poco adecuada  0 
+Medianamente adecuada  1 
+Totalmente  adecuada  3 
+ 
+➢ El establecimiento educativo cuenta con espacios pedagógicos para el área de Tecnología 
+e Informática ( Pregunta 30) . 
+ 
+Indique si el establecimiento educativo cuenta con espacios pedagógicos para el área de Tecnología e 
+Informática . 
+ 
+Los puntajes asociados según las opciones de respuesta son:  
+Indicador  Rango de Valores  Puntaje  
+Área de Tecnología e Informática . Si 3 
+No 0 
+ 
+➢ Uso de los bienes y servicios TIC con los estudiantes ( Pregunta 31) . 
+ 
+Señale las actividades en las que son utilizados los bienes y servicios TIC con los estudiantes. Puede 
+marcar varias opciones, los puntos deben sumarse dependiendo de las opciones que seleccione, así:  
+ 
+✓ Exposición y enseñanza de los contenidos curriculares en red (intranet ). 
+✓ Consulta de contenidos educativos, mediante buscadores en internet.  
+✓ Aprendizaje y evaluación del aprendizaje utilizando una plataforma virtual . 
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Uso de los bienes y servicios TIC  Exposición y enseñanza  1 
+Consulta de contenidos  1 
+Aprendizaje y evaluación  1 
+No utiliza las TIC’s  0 
+Total  3 
+ 
+➢ Uso de los bienes y servicios TIC por parte de los docentes ( Pregunta 32) . 
+ 
+Indique en qué actividades utilizan los docentes los bienes y servicios TIC. Puede marcar varias 
+opciones, los puntos deben sumarse dependiendo de las opciones que seleccione, así:  
+ 
+✓ Planificar clases.  
+✓ Desarrollar actividades académicas con los estudiantes.  
+
+===== PAGE 47 =====
+ 
+47 
+ ✓ Realizar evaluaciones de aula.  
+✓ Desarrollar procesos de seguimiento y retroalimentación.  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Uso de los bienes y servicios TIC  Planificar clases.  1 
+Desarrollar actividades académicas.  1 
+Realizar evaluaciones.  1 
+Procesos de seguimiento.  1 
+No utiliza las TIC  0 
+Total  4 
+ 
+ 
+➢ Uso de recursos y herramientas digitales ( Pregunta 33) . 
+ 
+Marque los recursos y herramientas educativas digitales en las que se promueve activamente el uso 
+por parte de la comunidad educativa. Puede marcar varias opciones, los puntos deben sumarse 
+dependiendo de las opciones que seleccione, así:  
+✓ Laboratorios experimentales virtuales.  
+✓ Portales educativos y plataformas de acceso abierto.  
+✓ Plataformas de aprendizaje LMS (Learning Managment System).  
+✓ Herramientas para creación y gestión de contenidos.  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Uso de herramientas digitales . Laboratorios experimentales . 1 
+Portales y plataformas de acceso abierto . 1 
+(Sistema de Gestión de Aprendizaje)  
+Learning Managment Sustem – LMS . 1 
+Creación y g estión de contenido . 1 
+No se promueve ninguno . 0 
+Total  4 
+ 
+ 
+➢ Mecanismos de ciberseguridad ( Pregunta 34) . 
+ 
+Indique los mecanismos de ciberseguridad que ha implementado el establecimiento para prevenir 
+situaciones de riesgo por el uso inadecuado de las TIC (Ciberacoso, grooming, phishing, sexting, 
+ciberdepredación y exposición a la información personal, entre ot ros). Puede marcar varias opciones, 
+los puntos deben sumarse dependiendo de las opciones que seleccione, así:  
+ 
+✓ A nivel tecnológico (firewall, filtros de contenido, entre otros).  
+✓ A nivel Institucional (Políticas internas, rutas y protocolos establecidas en el manual de 
+convivencia).  
+✓ A nivel pedagógico (Formación a docentes, administrativos, padres, cuidadores y 
+estudiantes, campañas de sensibilización).  
+ 
+
+===== PAGE 48 =====
+ 
+48 
+ Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Mecanismos de ciberseguridad ha 
+implementado el EE . A nivel tecnológico . 1 
+A nivel Institucional . 1 
+A nivel pedagógico . 1 
+No hay ningún mecanismo . 0 
+Total  3 
+ 
+ 
+3.2 Evaluación de procesos y resultados  
+ 
+En esta sección se incluyen las preguntas que orientan la autoevaluación de los procesos y resultados 
+en el establecimiento educativo.  
+ 
+Todas las preguntas tienen cuatro posibilidades de respuesta: No existe, En desarrollo, Buenos 
+resultados y Resultados sobresalientes.  
+ 
+El manual y la ayuda en línea incluyen la descripción de cada opción de respuesta para cada pregunta. 
+Después de leer cada pregunta, el equipo que lleva a cabo la autoevaluación lee las descripciones de 
+las posibilidades de respuesta y llega a un acuerdo s obre cuál se ajusta mejor a la situación del 
+establecimiento educativo y marca la respuesta correspondiente en el formulario.  
+ 
+La puntuación para cada estado de las preguntas 35 a 73 y la 78 es la siguiente:  
+ 
+Rango de Valores  Puntaje  
+No existe  0 
+En desarrollo  1 
+Buenos resultados  2 
+Resultados sobresalientes  3 
+ 
+A continuación, se presentan los cuadros con la descripción de los posibles estados de desarrollo en 
+cada una de las preguntas.  
+ 
+ 
+Gestión directiva: Horizonte institucional  
+ 
+➢ Misión y objetivos ( Pregunta 35) . 
+ 
+¿El establecimiento se ha apropiado de la misión, la visión y los objetivos institucionales?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El colegio tiene 
+redactados en el  La filosofía 
+institucional (misión,  El colegio tiene una 
+filosofía (visión, misión,  Los directivos, 
+docentes, estudiantes 
+
+===== PAGE 49 =====
+ 
+49 
+ documento del PEI su 
+misión, visión y 
+objetivos, pero no los 
+aplica.  visión y objetivos) está 
+definida; sin embargo, 
+no se concreta en 
+prioridades 
+institucionales, es 
+desconocida por la 
+mayor parte de la 
+comunidad educativa o 
+está en fases iniciales 
+de construcción 
+participativa.  objetivos y prioridades) 
+conocida por la mayor 
+parte de la comunidad 
+educativa, pero su 
+coherencia interna aún 
+no es completa o no 
+está integrada al 
+entorno.  y padres conocen y 
+comparten una 
+filosofía institucional 
+clara, coherente e 
+integrada al entorno.  
+ 
+ 
+➢ Metas del Proyecto Educativo Institucional ( pregunta 36) . 
+ 
+¿La comunidad educativa trabaja por el logro de las metas establecidas en el plan operativo del PEI 
+para el corto y largo plazo?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+La comunidad 
+educativa no ha sido 
+partícipe en el logro de 
+las metas establecidas 
+en el Plan Educativo 
+Institucional (PEI).   El establecimiento 
+educativo no está 
+alcanzando los 
+objetivos y/o metas que 
+se propuso en su Plan 
+Educativo Institucional 
+(PEI). No se identifican 
+mejoras significativas 
+en la gestión 
+institucional y el 
+aprendizaje de los 
+estudiantes.   El establecimiento 
+educativo ha obtenido 
+logros significativos 
+que reflejan el 
+cumplimiento de los 
+objetivos y metas 
+establecidos en el Plan 
+Educativo Institucional 
+(PEI), impactando 
+positivamente en la 
+comunidad educativa.   El establecimiento 
+educativo cuenta con 
+logros significativos y 
+positivos alcanzados 
+en diversas áreas, 
+como la calidad 
+educativa, la gestión 
+institucional, la 
+participación de la 
+comunidad y el 
+desarrollo integral de 
+los estudiantes.  
+ 
+ 
+Gestión directiva: Gobierno Escolar y Liderazgo  
+ 
+➢ Consejo Directivo ( Pregunta 37) . 
+ 
+¿Existe evidencia del funcionamiento del Consejo Directivo, con la participación activa de todos sus 
+miembros?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El Consejo Directivo no 
+existe, no han sido 
+nombrados sus 
+miembros o no ha sido 
+convocado.   El Consejo Directivo 
+existe formalmente, sin 
+embargo, no se reúne 
+con regularidad o no 
+asisten todos sus  El Consejo Directivo se 
+reúne ordinariamente 
+con el aporte activo de 
+todos sus miembros, 
+pero su incidencia en el  El Consejo Directivo se 
+reúne periódicamente 
+y sesiona con el aporte 
+activo de todos sus 
+miembros, define un 
+
+===== PAGE 50 =====
+ 
+50 
+ miembros, no cuenta 
+con los miembros o la 
+capacidad necesaria 
+para cumplir 
+eficazmente sus 
+funciones, aunque se 
+trabaja en lograr 
+cohesión y 
+compromiso.  desarrollo de la 
+institución no es 
+evidente pues define 
+un plan de trabajo, pero 
+no hace seguimiento 
+sistemático suficiente 
+(actas).  plan de trabajo, al que 
+le hace seguimiento 
+sistemático, suficiente 
+para asegurar su 
+cumplimiento (actas).  
+ 
+➢ Consejo Académico ( Pregunta 38) . 
+ 
+¿Existe evidencia del funcionamiento del Consejo Académico, con la participación activa de todos sus 
+miembros?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El Consejo Académico 
+del establecimiento 
+educativo no cuenta 
+con la participación 
+activa de todos sus 
+miembros o no cumple 
+con su función.   El funcionamiento del 
+Consejo Académico no 
+cumple 
+adecuadamente con 
+sus funciones o su 
+gestión no contribuye a 
+la mejora de la calidad 
+educativa del 
+establecimiento.   El funcionamiento del 
+Consejo Académico es 
+adecuado, con buena 
+participación y toma de 
+decisiones que son 
+informadas a la 
+comunidad educativa.   El funcionamiento del 
+Consejo Académico es 
+efectivo, con 
+resultados 
+sobresalientes, se 
+basa en una clara 
+definición de sus 
+funciones, gestión 
+eficiente y la 
+participación activa de 
+sus miembros en la 
+toma de decisiones y 
+asesoría en asuntos 
+académicos.  
+ 
+➢ Espacios de participación de estudiantes ( Pregunta 39) . 
+ 
+¿Existe evidencia de la participación activa de los estudiantes en el desarrollo de la vida escolar?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+En la cotidianidad 
+escolar la institución  es 
+vertical; existen 
+formalmente los 
+órganos 
+representativos de los 
+estudiantes, pero no 
+operan.   Existen y operan los 
+órganos 
+representativos del 
+estamento estudiantil, 
+pero su participación 
+en temas relevantes de 
+la vida escolar es 
+todavía incipiente.   Aunque existen y 
+operan los órganos 
+representativos del 
+estamento estudiantil 
+(Consejo Estudiantil, 
+personero y 
+representación en el 
+Consejo Directivo) y 
+aportan sugerencias en 
+algunos temas 
+relevantes de la vida 
+escolar como en el  Existen los órganos 
+representativos 
+(Consejo Estudiantil, 
+personero y 
+representación en el 
+Consejo Directivo), que 
+participan activamente 
+en las decisiones 
+institucionales 
+pertinentes y toman 
+responsabilidades 
+para aportar al 
+
+===== PAGE 51 =====
+ 
+51 
+ Manual de 
+Convivencia, su 
+participación se hace 
+de manera espontánea 
+o poco programada, lo 
+que les dificulta asumir 
+responsabilidades.  mejoramiento de la 
+calidad de la 
+educación.  
+ 
+➢ Participación de estudiantes desde su diversidad ( Pregunta 40) . 
+ 
+¿En cuáles de las siguientes instancias se promueve la participación de los estudiantes desde su 
+diversidad (niñas, estudiantes con discapacidad, estudiantes en condición de enfermedad, 
+estudiantes con capacidades o talentos excepcionales, víctimas, entre otros) en el desarrollo de la vida 
+escolar en el EE?  
+ 
+El establecimiento puede marcar una o varias opciones, los puntos se suman dependiendo de las 
+opciones que seleccione:  
+✓ Comité de convivencia.  
+✓ Consejo estudiantil.  
+✓ Representante al Consejo Directivo.  
+✓ Personero Estudiantil.  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Participación de estudiantes desde 
+su diversidad . Comité de convivencia . 1 
+Consejo estudiantil . 1 
+Representante al Consejo Directivo . 1 
+Personero Estudiantil . 1 
+No se promueve la participación . 0 
+Total  4 
+ 
+ 
+➢ Espacios de participación de padres ( Pregunta 41) . 
+ 
+¿Existe evidencia de la participación activa de los padres de familia en el desarrollo de la vida escolar?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+Los padres de familia 
+no están organizados, 
+su participación en los 
+órganos institucionales 
+es a título individual.   Hay una organización 
+de padres de familia 
+formal, que participa 
+en los órganos 
+institucionales. Se está 
+buscando ampliar su 
+participación hacia 
+otros procesos, sin 
+embargo, la  El Consejo de Padres 
+de familia se convoca 
+cada año, tiene una 
+buena capacidad de 
+representación y, 
+además participa 
+activamente en los 
+órganos 
+institucionales, se  Los padres de familia 
+contribuyen 
+activamente a la 
+organización y 
+mejoramiento de la 
+vida escolar y, además, 
+cuentan con 
+programas de 
+solidaridad entre sus 
+
+===== PAGE 52 =====
+ 
+52 
+ participación es 
+insuficiente.  evidencia el sentido de 
+pertenencia a la 
+institución. Además, 
+apoya el mejoramiento 
+de la calidad de la 
+educación.  miembros.  
+ 
+ 
+➢ Espacios participación de exalumnos ( Pregunta 42) . 
+ 
+¿Existe evidencia de la participación activa de los exalumnos en el desarrollo de la vida escolar?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+La institución no tiene 
+vínculos con sus 
+exalumnos.   La institución 
+promueve algunas 
+actividades con sus 
+exalumnos.   La institución 
+promueve 
+periódicamente 
+actividades con sus 
+exalumnos, y hace 
+seguimiento a sus 
+egresados.   Existe asociación de 
+exalumnos y algunos 
+participan en la vida 
+institucional. El 
+establecimiento 
+educativo hace 
+seguimiento a sus 
+egresados y lo analiza 
+para hacer más 
+pertinente su oferta 
+educativa.  
+ 
+ 
+➢ Liderazgo y trabajo en equipo en el establecimiento ( Pregunta 43) . 
+ 
+¿Se evidencian liderazgo y trabajo en equipo que impactan positivamente los resultados del 
+establecimiento educativo?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+Los miembros de la 
+institución no tienen 
+conocimientos 
+completos en su 
+campo, trabajan 
+individualmente, y no 
+suelen llevar a término 
+propósitos que 
+eventualmente se 
+plantean.   Los miembros de la 
+institución conocen su 
+campo, pero cada uno 
+se mantiene aislado 
+trabajando en su tema, 
+se proponen terminar 
+cosas, pero no siempre 
+las llevan a término.   Los miembros de la 
+institución conocen su 
+campo, mantienen 
+buenas relaciones, en 
+algunos casos trabajan 
+en equipo, resuelven 
+los problemas y 
+terminan la mayoría de 
+los trabajos que 
+empiezan.   Los miembros de la 
+institución están 
+atentos a nuevas 
+tendencias en su 
+campo, mantienen 
+buenas relaciones, 
+trabajan en equipo, 
+aplican distintas 
+formas de resolver 
+problemas y terminan 
+lo que empiezan.  
+ 
+ 
+ 
+
+===== PAGE 53 =====
+ 
+53 
+ ➢ Alianzas y proyección a la comunidad ( Pregunta 44) . 
+ 
+¿Se refleja el liderazgo del establecimiento en alianzas de mutuo beneficio y aportes a la comunidad?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El establecimiento 
+educativo no establece 
+relaciones con otros 
+colegios, ni con 
+entidades de gobierno 
+ni empresas, ni 
+asociaciones o redes 
+de ningún tipo, y las 
+relaciones con los 
+padres de familia son 
+mínimas.   El establecimiento 
+educativo mantiene 
+relaciones necesarias 
+con las autoridades y 
+desarrolla con sus 
+padres de familia 
+actividades aisladas 
+adicionales al reporte 
+del avance de los 
+estudiantes y la 
+interacción en el 
+Consejo Directivo.   El establecimiento 
+educativo mantiene 
+buenas relaciones con 
+el gobierno, comparte 
+experiencias con 
+miembros de otros 
+establecimientos 
+educativos, participa 
+activamente en redes o 
+asociaciones y 
+adelanta actividades 
+de extensión que 
+benefician a las 
+familia s de estudiantes 
+y empleados.   El establecimiento 
+educativo mantiene 
+alianzas de mutuo 
+beneficio con, 
+empresas, ONG y el 
+gobierno. Comparte 
+experiencias con 
+miembros de otros 
+establecimientos 
+educativos en redes o 
+asociaciones, y 
+adelanta actividades 
+de extensión que 
+benefician a las 
+familias de estudiantes 
+y empleados, y a la 
+comunidad vecina al 
+lugar en que el colegio 
+se ubica.  
+ 
+ 
+➢ Reglamento o Manual de Convivencia ( Pregunta 45) . 
+ 
+¿Existe el Reglamento o Manual de Convivencia enmarcado en la educación inclusiva y se aplica en el 
+manejo y solución de conflictos?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El Reglamento o 
+Manual de Convivencia 
+se conoce muy poco o 
+se aplica 
+arbitrariamente, con lo 
+cual se percibe un 
+ambiente de conflictos 
+no resueltos y no se 
+enmarca o incorpora 
+en la educación 
+inclusiva.   Se conoce y se aplica el 
+Reglamento o Manual 
+de Convivencia, 
+aprobado por el 
+Consejo Directivo y 
+ajustado a la 
+normatividad vigente. 
+Es un listado de cosas 
+permitidas y 
+prohibidas, 
+reconocimientos y 
+sanciones, por lo que 
+permite que aparezcan 
+conflictos o 
+situaciones agresivas  Se conoce y se aplica 
+un Reglamento o 
+Manual de Convivencia 
+aprobado por el 
+Consejo Directivo y 
+ajustado a la 
+normatividad vigente. 
+Permite la convivencia 
+armónica al interior del 
+colegio, porque 
+contiene unidad de 
+criterios, favorece el 
+desarrollo integra l, 
+propicia el diálogo y la 
+solución de conflictos,  El Reglamento o 
+Manual de Convivencia 
+aprobado por el 
+Consejo Directivo y 
+ajustado a la 
+normatividad vigente, 
+expresa reglas básicas 
+equitativas de 
+convivencia para la 
+vida institucional que 
+son acordadas, 
+conocidas y acatadas 
+por la comunidad 
+educativa , 
+considerando la 
+
+===== PAGE 54 =====
+ 
+54 
+ sin fácil solución.  se ajusta y mejora cada 
+año, pero no logra 
+neutralizar algunos 
+conflictos internos y 
+del entorno.  diversidad de todos los 
+estudiantes, 
+incluyendo aquellos 
+con necesidades 
+educativas especiales. 
+Permite solucionar 
+conflictos con 
+celeridad y eficiencia. 
+Se ajusta y mejora cada 
+año y facilita la 
+solución de conflictos 
+internos y externos.  
+ 
+ 
+➢ Convivencia escolar ( Pregunta 46) . 
+ 
+¿El EE ha diseñado e implementado una ruta de atención integral para la promoción, prevención, 
+atención y seguimiento de la convivencia escolar, que contemple apoyos y ajustes razonables para 
+todas y todos los estudiantes desde la diversidad que puedan pre sentar?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+No se ha diseñado una 
+ruta de atención 
+integral para la 
+promoción, 
+prevención, atención y 
+seguimiento de la 
+convivencia escolar, 
+que contemple apoyos 
+y ajustes razonables 
+para todas y todos los 
+estudiantes desde la 
+diversidad.   El Comité de 
+Convivencia está 
+conformado y diseñó 
+una ruta de atención 
+integral para la 
+promoción de la 
+convivencia escolar y la 
+prevención de 
+situaciones que la 
+afectan, pero no se 
+pone en práctica 
+resueltos y no se 
+enmarca en la 
+educación inclusiva.   El Comité se reúne 
+periódicamente. Se 
+encarga de identificar, 
+analizar y planear 
+estrategias para el 
+desarrollo de 
+convivencia pacífica, 
+con enfoque de 
+competencias 
+ciudadanas en los 
+ambientes 
+institucional, de aula, 
+espacios de 
+participación, tiempo 
+libre  y proyectos 
+pedagógicos).  
+Además, sigue con 
+rigurosidad una ruta de 
+atención integral 
+enmarcada en la 
+educación inclusiva y 
+establecida en el 
+manual de 
+convivencia.   El Comité evalúa la ruta 
+de atención integral, 
+redefine con 
+participación de la 
+comunidad educativa 
+las acciones de 
+prevención y 
+promoción, 
+considerando la 
+diversidad de todos los 
+estudiantes, 
+incluyendo aquellos 
+con necesidades 
+educativas especiales, 
+hace  seguimiento a los 
+casos que afectan la 
+convivencia escolar y 
+reporta 
+periódicamente a la 
+secretaría de 
+educación y a toda la 
+comunidad educativa 
+su evaluación.  
+ 
+ 
+ 
+
+===== PAGE 55 =====
+ 
+55 
+ Gestión académica  
+ 
+ 
+➢ Estrategia pedagógica ( Pregunta 47) . 
+ 
+¿La estrategia pedagógica definida en el PEI es explícita, clara y ha sido apropiada por el equipo 
+docente?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El colegio no ha 
+definido en su PEI una 
+estrategia pedagógica 
+básica (metodología, 
+contenidos, ayudas 
+educativas y 
+evaluación), con 
+prioridades claras.   Aunque el PEI define 
+una estrategia y unas 
+prioridades 
+pedagógicas, éstas son 
+desconocidas por la 
+mayoría de los 
+docentes.   En el PEI están 
+definidas las 
+estrategias 
+pedagógicas que son 
+conocidas por el 
+cuerpo docente y han 
+sido apropiadas por un 
+buen número de ellos. 
+Sin embargo, se siguen 
+aplicando algunas 
+estrategias 
+pedagógicas que no 
+son coherentes con las 
+líneas estableci das en 
+el PEI y las prioridades 
+institucionales.   Hay una estrategia 
+pedagógica clara, 
+explícita y coherente 
+con las prioridades 
+institucionales, 
+conocida y apropiada 
+por la dirección y el 
+equipo docente.  
+ 
+ 
+➢ Plan de estudios compartido ( Pregunta 48) . 
+ 
+¿Existe un Plan de Estudios coherente y construido con los miembros del equipo docente?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+No existe plan de 
+estudios definido 
+institucionalmente, 
+cada docente elabora 
+su plan de manera 
+autónoma.   Existe un plan de 
+estudios que presenta 
+incoherencias. Ha sido 
+elaborado sin 
+participación de los 
+docentes.  
+Aún no se aplica en 
+todos los niveles y 
+áreas. Insuficiente en 
+su alcance.   Existe un plan de 
+estudios y proyectos 
+pedagógicos 
+coherente. Aún no se 
+aplica en todos los 
+niveles y áreas, pero se 
+evidencia el progreso.   Existe un plan de 
+estudios articulado y 
+coherente, así como 
+proyectos 
+pedagógicos. Es el 
+resultado del trabajo 
+conjunto del equipo 
+docente para articular 
+áreas y grados y se 
+aplica en el proceso 
+formativo de los 
+estudiantes.  
+ 
+ 
+ 
+
+===== PAGE 56 =====
+ 
+56 
+ ➢ Estándares en el plan de estudios ( Pregunta 49) . 
+ 
+¿El plan de estudios incorpora estándares?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+No existe plan de 
+estudios definido 
+institucionalmente o 
+no incorpora 
+lineamientos 
+curriculares y 
+estándares.   Los docentes están 
+revisando lineamientos 
+curriculares y 
+estándares, pero aún 
+no se han articulado a 
+los planes existentes, 
+no cumple con los 
+estándares educativos 
+necesarios para 
+garantizar una 
+educación de calidad.   Existe un plan de 
+estudios con proyectos 
+pedagógicos 
+coherentes y se han 
+incorporado los 
+lineamientos o 
+estándares en algunas  
+áreas fundamentales.   Existe un plan de 
+estudios articulado y 
+coherente con 
+proyectos 
+pedagógicos.  
+Ambos incorporan 
+lineamientos y 
+estándares para todos 
+los niveles y áreas . El 
+plan de estudios se 
+evalúa y se mejora de 
+manera permanente.  
+ 
+ 
+➢ Proyectos transversales en el plan de estudios ( Pregunta 50) . 
+ 
+¿Incorpora el plan de estudios competencias laborales y proyectos transversales?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+No existe plan de 
+estudios definido 
+institucionalmente o 
+no incorpora proyectos 
+transversales de 
+competencias 
+laborales, ciudadanía y 
+educación para la 
+sexualidad, medio 
+ambiente y derechos 
+humanos, entre otros.   Existe un plan de 
+estudios que presenta 
+incoherencias e incluye 
+acciones aisladas en 
+competencias 
+laborales, democracia 
+y educación para la 
+sexualidad, entre otros.   Existe un plan de 
+estudios con proyectos 
+pedagógicos 
+coherentes que incluye 
+proyectos 
+transversales, pero 
+éstos no tienen 
+articulación completa 
+por áreas y grados.   Existe un plan de 
+estudios articulado y 
+coherente, así como 
+proyectos pedagógicos 
+transversales. Los 
+proyectos 
+transversales se 
+aplican en todas las 
+áreas relevantes, y de 
+forma articulada en los 
+distintos grados.  
+ 
+ 
+➢ Ambientes de aprendizaje ( Pregunta 51) . 
+ 
+¿Se observa en los espacios educativos un ambiente propicio para el aprendizaje y la convivencia de 
+todas y todos los estudiantes desde la diversidad que puedan presentar?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+La planta física está 
+descuidada y no  Se nota descuido en 
+algunos espacios de la  La planta física en 
+general está bien  Además de lo anterior, 
+la planta física es 
+
+===== PAGE 57 =====
+ 
+57 
+ favorece un ambiente 
+adecuado para el 
+aprendizaje. No 
+fomenta la 
+participación activa 
+respeto a la diversidad, 
+y el bienestar 
+emocional de todos los 
+estudiantes.  planta física, que 
+afectan el ambiente de 
+aprendizaje, carece de 
+espacios donde cada 
+estudiante se sienta 
+valorado, seguro y 
+capaz de aprender, 
+independientemente 
+de sus diferencias 
+individuales o talentos 
+excepcionales.  presentada y los 
+espacios se usan 
+adecuadamente, 
+favoreciendo un 
+ambiente de 
+aprendizaje.  agradable y posee 
+jardines y zonas verdes 
+amplias, espacios 
+donde todos los 
+estudiantes se sienten 
+valorados, respetados 
+y con igualdad de 
+oportunidades para 
+aprender y 
+desarrollarse 
+favoreciendo un 
+ambiente propicio para 
+el aprendizaje y la 
+buena conviven cia.  
+ 
+ 
+➢ Planeación y desarrollo de las actividades pedagógicas ( Pregunta 52) . 
+ 
+¿Se evidencia innovación para la planeación y desarrollo de las actividades pedagógicas?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+Predominan las clases 
+magistrales y el uso de 
+un texto único. No se 
+planean las actividades 
+académicas y hay 
+carencia de criterios 
+sobre tareas.   Predominan las clases 
+magistrales. Se 
+preparan clases, con 
+uso de texto único. Se 
+evidencia falta de 
+creatividad y nuevas 
+ideas en la forma en 
+que se diseñan y 
+ejecutan las 
+actividades 
+educativas, persisten 
+los métodos 
+tradicionales, falta de 
+adaptación a las 
+necesidades 
+individuales de los 
+estudiantes, o una 
+desconexión entre la 
+teoría pedagógica y la 
+práctica en el aula.   Se preparan clases con 
+uso de distintas 
+metodologías y 
+recursos didácticos. 
+Las evaluaciones y 
+tareas son planeadas y 
+coherentes con el 
+trabajo en el aula.   Además de lo anterior, 
+hay criterios 
+institucionales para la 
+evaluación del 
+aprendizaje, y manejo 
+de tareas, definidos 
+con la participación de 
+los docentes. El 
+establecimiento 
+adopta nuevas 
+metodologías y 
+estrategias para 
+mejorar el aprendizaje, 
+el aprendi zaje basado 
+en proyectos, y el uso 
+de las TIC.  
+ 
+ 
+➢ Ambientes de aprendizaje enriquecidos ( Pregunta 53) . 
+ 
+¿El EE cuenta con ambientes de aprendizaje enriquecidos con materiales didácticos pertinentes, 
+acceso a la tecnología y sistemas de apoyos pedagógicos que involucre los ajustes razonables para la 
+
+===== PAGE 58 =====
+ 
+58 
+ participación de todas y todos los estudiantes, desde la diversidad que puedan presentar?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+Se evidencia falta de 
+ambientes de 
+aprendizaje 
+enriquecidos con 
+materiales didácticos 
+pertinentes, acceso a 
+la tecnología y 
+sistemas de apoyo 
+pedagógico que 
+incluyan la educación 
+inclusiva.   Los ambientes de 
+aprendizaje no se 
+encuentran 
+enriquecidos con 
+materiales didácticos 
+pertinentes, acceso a 
+la tecnología y 
+sistemas de apoyo 
+pedagógico que 
+incluyan ajustes 
+razonables, lo cual 
+dificulta la 
+participación efectiva 
+de todos los 
+estudiantes en  el 
+marco de la educación 
+inclusiva.   Los ambientes de 
+aprendizaje cuentan 
+con materiales 
+didácticos pertinentes, 
+acceso a la tecnología y 
+sistemas de apoyo 
+pedagógico que 
+integren ajustes 
+razonables para 
+asegurar la 
+participación efectiva 
+de todos los 
+estudiantes, 
+incluyendo aquellos 
+desde la  diversidad o 
+talentos 
+excepcionales.   Los ambientes de 
+aprendizaje cuentan 
+con recursos y 
+materiales didácticos 
+educativos adaptados 
+a las diversas 
+necesidades de 
+aprendizaje, 
+considerando estilos 
+de aprendizaje, niveles 
+de desarrollo y 
+diversidad y/ o talentos 
+excepcionales, 
+asegurando la 
+participación efectiva 
+de todos los 
+estudiantes.  
+ 
+ 
+➢ Actividades deportivas y culturales ( Pregunta 54) . 
+ 
+¿Se organizan e incentivan actividades deportivas y culturales dentro y fuera de la institución, en donde 
+se implementen apoyos y ajustes razonables para todas y todos los estudiantes desde la diversidad 
+que puedan presentar?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+Prácticamente no se 
+organizan 
+institucionalmente 
+actividades deportivas 
+y culturales 
+extracurriculares y no 
+se han implementado 
+apoyos para los 
+estudiantes desde la 
+diversidad.   El establecimiento no 
+ha planeado 
+actividades culturales y 
+deportivas. Se 
+desarrollan por 
+iniciativa de docentes, 
+estudiantes o sus 
+familias, pero no se han 
+incorporado apoyos o 
+ajustes desde la 
+diversidad que puedan 
+presentar los 
+estudiantes.   El establecimiento ha 
+planeado y promueve 
+la realización de 
+actividades deportivas 
+y culturales al interior 
+del colegio, y sus 
+estudiantes participan 
+en eventos 
+Intercolegiados y se 
+han implementado 
+apoyos para todas y 
+todos los estudiantes 
+desde su divers idad.   Grupos de estudiantes 
+de la institución 
+participan 
+sistemáticamente en 
+eventos deportivos y 
+culturales de carácter 
+municipal, 
+departamental o 
+nacional, y la 
+institución apoya su 
+organización, e 
+incorpora a la totalidad 
+de sus estudiantes 
+desde la diversida d que 
+puedan presentar.  
+ 
+ 
+ 
+
+===== PAGE 59 =====
+ 
+59 
+ ➢ Eventos académicos ( Pregunta 55) . 
+ 
+¿Se organizan e incentivan eventos académicos, dentro y fuera de la institución?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+No se realizan eventos 
+académicos.   Ocasionalmente se 
+realizan eventos 
+académicos.   La institución realiza y 
+participa regularmente 
+en eventos 
+académicos 
+Intercolegiados como 
+ferias de la ciencia, 
+olimpiadas 
+matemáticas, 
+concursos de 
+ortografía entre otros.   Grupos de estudiantes 
+de la institución 
+participan 
+sistemáticamente en 
+eventos académicos 
+Intercolegiados de 
+carácter municipal, 
+departamental o 
+nacional, y la 
+institución apoya su 
+organización.  
+ 
+➢ Investigación institucional ( Pregunta 56) . 
+ 
+¿Se incentiva y fomenta la investigación institucional, así como la divulgación de sus resultados?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+No se desarrolla 
+investigación 
+institucional, aunque 
+algunos docentes lo 
+hagan a título personal.   Se está trabajando al 
+menos un proyecto de 
+investigación 
+institucional, sin 
+embargo, sus 
+resultados no son 
+concluyentes.   Existen investigaciones 
+institucionales con 
+base científica, pero 
+los canales de 
+divulgación no son 
+sistemáticos o en su 
+desarrollo no 
+participan los 
+estudiantes como 
+parte de su proceso de 
+formación.   La institución 
+desarrolla y publica 
+proyectos de 
+investigación (puede 
+ser en Internet), que 
+son conocidos fuera 
+del colegio y en su 
+desarrollo participan 
+los estudiantes como 
+parte de su formación.  
+ 
+➢ Programación del tiempo ( Pregunta 57) . 
+ 
+¿La programación del tiempo en la institución está orientada a la eficiencia del servicio educativo?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+La organización y 
+división del tiempo 
+escolar es deficiente, 
+lo que se traduce en 
+frecuentes 
+improvisaciones.   Se cumple la 
+programación del 
+tiempo escolar, pero en 
+la práctica se pierde 
+mucho tiempo 
+académico por falta de  Existe un buen 
+cumplimiento del 
+tiempo académico 
+previsto, pero hay poco 
+lugar para 
+complementarlo con  El tiempo está bien 
+distribuido entre lo 
+curricular y 
+extracurricular, y se 
+observa un uso 
+eficiente y responsable 
+
+===== PAGE 60 =====
+ 
+60 
+ organización.  actividades 
+extracurriculares y para 
+los refuerzos y 
+acciones de 
+recuperación que 
+necesiten los 
+estudiantes dentro de 
+su calendario escolar.  de la jornada 
+académica, incluidos 
+refuerzos y acciones de 
+recuperación.  
+ 
+ 
+➢ Evaluación del plan de estudios ( Pregunta 58) . 
+ 
+¿Se evalúa periódicamente el plan de estudios y sus resultados se utilizan para su mejoramiento?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El colegio no ha 
+establecido 
+mecanismos de 
+evaluación y ajuste del 
+plan de estudios.   Existen y se aplican 
+mecanismos 
+establecidos para el 
+control puntual de 
+aspectos específicos 
+del plan de estudios, 
+pero no sobre el 
+conjunto de su 
+desarrollo.   El colegio tiene 
+definidos mecanismos 
+de evaluación 
+permanente del plan de 
+estudios y se evidencia 
+la utilización de 
+algunos de los 
+resultados para su 
+mejoramiento. Falta 
+regularizar un proceso 
+de mejoramiento 
+continuo.   El colegio tiene 
+definidos mecanismos 
+de evaluación 
+permanente del plan de 
+estudios. Los 
+resultados son 
+analizados y se han 
+registrado los ajustes, 
+adecuando el plan a las 
+necesidades 
+institucionales. Hay un 
+proceso evidente de 
+mejoramiento 
+sistemático y c ontinuo.  
+ 
+ 
+➢ Servicio social ( Pregunta 59) . 
+ 
+¿El colegio se proyecta a la comunidad a través del servicio social que prestan sus estudiantes?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El servicio social 
+obligatorio de los 
+estudiantes se cumple 
+como una formalidad 
+desarticulada del 
+colegio y de su entorno.   El colegio está 
+estudiando las 
+necesidades de los 
+estudiantes y la 
+comunidad para definir 
+el servicio social 
+obligatorio de sus 
+estudiantes. Sus 
+objetivos y actividades 
+no están definidas o  El colegio conoce su 
+entorno y las 
+necesidades de sus 
+estudiantes y ese 
+conocimiento es tenido 
+en cuenta en la 
+articulación del 
+servicio social 
+obligatorio, sin 
+embargo, debe  La institución además 
+de tener en cuenta el 
+entorno es un agente 
+clave en su desarrollo. 
+El servicio social 
+obligatorio le ha 
+permitido a la 
+institución proyectar su 
+identidad en la 
+comunidad.  
+
+===== PAGE 61 =====
+ 
+61 
+ alineadas con las 
+necesidades de la 
+comunidad.  trabajarse más en los 
+estudiantes la 
+capacidad de empatía 
+e integración a la 
+comunidad.  
+ 
+Nota:  Solo aplica cuando el EE oferta grados 10 y 11  
+ 
+ 
+➢ Sistema de evaluación de estudiantes ( Pregunta 60) . 
+ 
+¿Existe un sistema institucional de evaluación de estudiantes construido y conocido por todos los 
+miembros de la comunidad educativa, en donde se contemple la diversidad de los estudiantes?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El colegio no ha 
+establecido, adoptado 
+o divulgado un sistema 
+institucional de 
+evaluación de 
+estudiantes. Los 
+docentes aplican sus 
+propios criterios de 
+evaluación.   El colegio tiene 
+establecido y adoptado 
+su sistema 
+institucional de 
+evaluación de 
+estudiantes, como 
+parte del PEI, que 
+contempla instancias 
+de reclamación y 
+registro escolar, sin 
+embargo, no es 
+conocido por todos 
+miembros de la 
+comunidad educativa y 
+no con templ a la 
+diversidad de los 
+estudiantes.   El colegio tiene 
+establecido y adoptado 
+su sistema 
+institucional de 
+evaluación de 
+estudiantes, como 
+parte del PEI, dicho 
+plan contempla la 
+diversidad de los 
+estudiantes, y se revisa 
+periódicamente de 
+manera participativa. 
+Ha iniciado procesos 
+de divulgació n, tiene 
+diseñado un esquema 
+de reclamaciones y 
+tiene un sistema de 
+registro escolar eficaz.   El colegio tiene 
+establecido, adoptado 
+y divulgado por 
+distintos canales su 
+sistema institucional 
+de evaluación de 
+estudiantes. Este es 
+armónico con el 
+currículo, plan de 
+estudios y demás 
+componentes del PEI, 
+contempla la 
+diversidad de los 
+estudiantes, se revisa 
+periódicamente de 
+manera participativa, 
+incluye un esquema de 
+reclamaciones que 
+opera plenamente y 
+tiene un sistema de 
+registro escolar eficaz y 
+moderno. El Consejo 
+Directivo hace 
+seguimiento a metas 
+institucionales de 
+reprobación y 
+repitencia.  
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 62 =====
+ 
+62 
+ ➢ Participación de educadores y  estudiantes en la evaluación ( Pregunta 61) . 
+ 
+¿El sistema de evaluación involucra en forma congruente a educadores y estudiantes?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+La evaluación es un 
+instrumento de 
+represión y castigo o no 
+hay reglas de juego 
+claras aplicadas con 
+equidad.   Aunque hay equidad en 
+la manera de evaluar de 
+cada docente, no hay 
+una política 
+institucional unificada 
+al respecto.   En las diferentes áreas 
+y niveles hay una 
+combinación 
+adecuada de 
+evaluación académica 
+que realiza el docente 
+con la autoevaluación 
+del estudiante.   Existe una 
+combinación 
+adecuada de la 
+evaluación que realiza 
+el docente, la 
+autoevaluación del 
+estudiante, y la de sus 
+pares, la cual obedece 
+a una política explícita 
+en su sistema 
+institucional de 
+evaluación, congruente 
+con la filosofía 
+institucional.  
+ 
+ 
+➢ Uso de los resultados de la evaluación en acciones de refuerzo, recuperación y 
+seguimiento ( Pregunta 62) . 
+ 
+¿El resultado del proceso de evaluación se usa para proponer acciones de refuerzo, recuperación y 
+seguimiento?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El análisis de los 
+resultados de la 
+evaluación de 
+estudiantes no genera 
+acciones de refuerzo y 
+recuperación para el 
+logro de objetivos 
+esperados.   Se realizan actividades 
+de refuerzo y 
+recuperación 
+programadas para 
+quienes no alcanzan 
+los logros esperados, 
+pero aún no se 
+evidencia un efecto 
+positivo y no se realiza 
+seguimiento a los 
+resultados.   Las actividades de 
+refuerzo y recuperación 
+programadas producen 
+resultados, se realiza 
+seguimiento y se 
+evidencia un aumento 
+en el alcance de los 
+logros propuestos.   El seguimiento 
+continuo acompañado 
+de acciones puntuales 
+de refuerzo y 
+recuperación se refleja 
+en un mejoramiento 
+generalizado en el 
+alcance de los logros 
+esperados.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 63 =====
+ 
+63 
+ ➢ Comisiones de evaluación y criterios de promoción ( Pregunta 63) . 
+ 
+¿Los criterios de promoción y reprobación establecidos son conocidos por las familias y estudiantes, 
+y aplicados en la institución?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+No hay reglas de juego 
+claras para la 
+promoción y 
+reprobación en las 
+diferentes áreas y 
+grados; cada docente 
+aplica su propio 
+criterio. El ausentismo 
+es frecuente y sólo se 
+controla con el sistema 
+tradicional de fallas a 
+clase. No existen 
+Comisiones de 
+Eva luación y 
+Promoción.   El cuerpo docente 
+aplica criterios claros 
+de promoción y 
+reprobación, que no 
+comunican totalmente 
+a los alumnos y a sus 
+familias, o no rigen para 
+todas las áreas y 
+grados. Se hace 
+seguimiento al 
+ausentismo, pero no se 
+indagan sus causas. Se 
+han convocado l as 
+Comisiones de 
+Evaluación, pero aún 
+no operan plenamente.   El colegio ha definido 
+criterios para la 
+promoción y 
+reprobación en todas 
+las áreas y grados, 
+incluidos mecanismos 
+claros para abordar el 
+ausentismo de los 
+estudiantes. Las 
+Comisiones de 
+Evaluación hacen 
+seguimiento periódico 
+a los resultados de las 
+evalua ciones, y a casos 
+que merecen especial 
+atención, pero se 
+evidencian algunas 
+fallas y confusiones en 
+la aplicación de 
+criterios.   Hay definición explícita 
+y reglas de juego claras 
+sobre lo que se espera 
+aprender y cómo 
+evaluarlo en cada 
+disciplina para cada 
+grado, se dan a 
+conocer a los 
+estudiantes y padres, 
+quienes    se han 
+apropiado del proceso. 
+Las Comisiones de 
+Evaluación hacen 
+seguimiento periódico 
+y efectivo a las 
+evaluaciones, y a casos 
+que merecen especial 
+atención.  
+ 
+ 
+➢ Intervención en dificultades de aprendizaje ( Pregunta 64) . 
+ 
+¿Se atienden de manera oportuna y profesional las dificultades de aprendizaje?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+Es muy poco lo que 
+hace el colegio para 
+ayudar a los 
+estudiantes con 
+problemas de 
+aprendizaje.   El colegio tiene 
+previstas algunas 
+acciones de 
+acompañamiento en 
+casos de dificultades 
+en el aprendizaje, pero 
+son esporádicas o se 
+limitan a remisiones 
+con responsabilidad 
+exclusiva de los 
+padres.   Por iniciativa de 
+directivas y docentes, 
+el colegio se interesa 
+por apoyar a los 
+estudiantes con 
+dificultades en el 
+aprendizaje. En este 
+esfuerzo ha promovido 
+la capacitación y 
+actualización de 
+docentes y padres en el 
+manejo de tales 
+dificultades.   Además de la ayuda 
+prestada por directivas 
+y docentes, la 
+institución ofrece 
+apoyo profesional 
+continuado para 
+contribuir a la solución 
+de las dificultades en el 
+aprendizaje.  
+ 
+
+===== PAGE 64 =====
+ 
+64 
+ ➢ Comunicación con padres de familia sobre el proceso educativo de sus hijos ( Pregunta 65) . 
+ 
+¿Existen encuentros periódicos con los padres de familia para reportar oportunamente el avance en el 
+proceso de formación de sus hijos?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El avance en el proceso 
+de formación de los 
+estudiantes es 
+comunicado a los 
+padres sólo por escrito 
+o en reuniones 
+ocasionales sin 
+programación en el 
+calendario académico.   El colegio ha 
+organizado una 
+programación 
+periódica de reuniones 
+con los padres para 
+analizar el avance en el 
+proceso, pero su 
+cumplimiento no es 
+satisfactorio para la 
+mayoría de la 
+comunidad educativa.   Existe una 
+programación 
+periódica de reuniones 
+con los padres para 
+analizar el avance en el 
+proceso formativo de 
+sus hijos, en la que se 
+tiene interlocución con 
+el director de grupo. No 
+obstante, los informes 
+presentados son 
+generales y no 
+permiten la 
+prof undización en las 
+distintas áreas 
+académicas.   El colegio tiene en su 
+calendario escolar días 
+específicos en horarios 
+adecuados para los 
+padres, en los que les 
+entregan informes 
+personales sobre los 
+avances y dificultades 
+de sus hijos, y además 
+les ofrece espacios 
+para que puedan 
+hablar con docentes de  
+las distintas áreas.  
+ 
+ 
+➢ Bilingüismo ( Pregunta 66) . 
+ 
+¿Existe un proceso estructurado de enseñanza de una lengua extranjera?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El número de horas 
+dedicadas a la 
+enseñanza y el 
+aprendizaje de la 
+lengua extranjera es 
+bajo (4 horas por 
+semana o menos).   El plan de estudios que 
+se desarrolla incluye 
+entre 5 y 15 horas 
+semanales dedicadas 
+a la enseñanza y el 
+aprendizaje de una 
+lengua extranjera como 
+asignatura, sin que 
+ésta se use como 
+medio de enseñanza - 
+aprendizaje en ningún 
+área curricular.  
+ 
+Se enfoca en la teoría y 
+la gramática, 
+descuidando la 
+práctica y la 
+comunicación real o  Hay más de 15 horas de 
+contacto con la lengua 
+extranjera en el plan de 
+estudios, sin llegar al 
+50% del total. Se usan 
+dos o más lenguas en la 
+enseñanza y el 
+aprendizaje de 
+distintas áreas 
+curriculares.  
+ 
+Desarrolla en sus 
+estudiantes un alto 
+grado de competencia 
+en al menos una lengua 
+extranjera.  
+ 
+Promueve una  Existe una alta 
+intensidad de contacto 
+con la lengua 
+extranjera en el plan de 
+estudios (más de 50%). 
+Se usan dos o más 
+lenguas como medio 
+de enseñanza y el 
+aprendizaje de 
+distintas áreas 
+curriculares.  
+ 
+Requiere que sus 
+graduados aprueben 
+un examen de lengua 
+extranjera 
+internacional además 
+de aprobar el currículo 
+
+===== PAGE 65 =====
+ 
+65 
+ conversacional.  orientación 
+intercultural.  colombiano. La 
+institución promueve 
+orientación bicultural o 
+intercultural.  
+ 
+ 
+Gestión con la comunidad  
+ 
+➢ Perfil del estudiante ( Pregunta 67) . 
+ 
+¿El perfil del estudiante es coherente con los principios enmarcados en el PEI y se observa en el 
+quehacer cotidiano de la comunidad escolar?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El perfil del estudiante 
+no ha sido claramente 
+especificado en el PEI 
+en forma coherente 
+con sus objetivos, con 
+el enfoque de 
+derechos, equidad, 
+inclusión y género, y se 
+observa pobre 
+identificación de 
+estudiantes con su 
+institución.   El perfil del estudiante 
+está especificado en el 
+PEI y es coherente con 
+sus objetivos, con el 
+enfoque de derechos, 
+equidad, inclusión y 
+género. Aunque se 
+observa un esfuerzo 
+significativo de 
+directivos y docentes 
+por consolidar al 
+menos los símbolos 
+extern os de identidad, 
+todavía los estudiantes 
+sólo muestran clara 
+identificación con su 
+colegio en ocasiones 
+especiales, tales como 
+encuentros deportivos 
+y culturales.   El comportamiento de 
+los estudiantes es 
+consistente con el 
+perfil claramente 
+definido en el PEI. 
+Tanto en eventos 
+internos y externos, 
+como en la 
+cotidianidad de la vida 
+escolar, el estudiante 
+muestra identificación 
+con su institución 
+mediante el respeto y  
+orgullo por sus 
+símbolos de identidad, 
+tales como 
+instalaciones, 
+uniforme, himno, 
+escudo, equipos 
+deportivos.   Los estudiantes se 
+identifican con su 
+colegio, lo quieren y se 
+sienten orgullosos de 
+él; esto se refleja en el 
+ambiente cotidiano, en 
+el respeto por los 
+acuerdos de 
+convivencia y el buen 
+trato con sus docentes, 
+directivas y pares, así 
+como en el cuidado de  
+las instalaciones y los 
+medios de aprendizaje.  
+ 
+➢ Programa de orientación ( Pregunta 68) . 
+ 
+¿Existe un programa organizado de orientación al estudiante desde la diversidad que pueda presentar, 
+que apoye la construcción de su proyecto de vida?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+No existe un programa 
+de orientación a los 
+estudiantes.   Algunos docentes de 
+manera aislada se 
+interesan por orientar 
+las expectativas 
+individuales de sus  Existe un programa de 
+orientación trabajado 
+en equipo y se conocen 
+las necesidades, 
+intereses y  Existe un programa de 
+orientación a los 
+estudiantes liderado 
+por personal versado 
+en el tema. La 
+
+===== PAGE 66 =====
+ 
+66 
+ alumnos, 
+especialmente cuando 
+perciben momentos de 
+crisis, suministrando 
+orientación, desde la 
+diversidad que puedan 
+presentar los 
+estudiantes.  expectativas de los 
+estudiantes. La 
+orientación apoya la 
+construcción de 
+proyecto de vida del 
+estudiante en la 
+creación de un 
+ambiente inclusivo y 
+equitativo donde cada 
+estudiante, 
+independientemente 
+de sus características 
+individuales, pueda 
+desarrollarse  
+plenamente.  orientación apoya la 
+construcción de 
+proyecto de vida del 
+estudiante, partiendo 
+de su desarrollo 
+sicosocial y nivel de 
+formación, con 
+enfoque en ambiente 
+inclusivo y equitativo, 
+permitiendo que cada 
+estudiante, 
+independientemente 
+de sus características 
+individuales, pueda 
+desarrollarse 
+plenamente bajo una 
+orientación.  
+ 
+➢ Política de inclusión ( Pregunta 69) . 
+ 
+¿Cuenta la institución con una política explícita que promueva la inclusión de personas desde la 
+diversidad cultural y de sus capacidades?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+Los criterios de 
+selección de 
+estudiantes excluyen a 
+quienes tienen 
+necesidades 
+especiales o 
+diferencias culturales o 
+raciales en relación 
+con el resto de la 
+población escolar.   El colegio acepta 
+aspirantes con 
+necesidades 
+especiales o con 
+diferencias culturales o 
+raciales en relación 
+con el resto de la 
+población escolar, 
+pero las acciones que 
+desarrolla no son 
+suficientes para lograr 
+una verdadera 
+inclusión de todos los 
+estudiant es.  El colegio acepta 
+aspirantes con 
+necesidades 
+especiales o con 
+diferencias culturales o 
+raciales en relación 
+con el resto de la 
+población escolar. 
+Adapta metodologías, 
+recursos y espacios 
+físicos, promueve y 
+apoya sus talentos y los 
+hace valorar por la 
+comu nidad educativa.   El colegio acepta 
+aspirantes con 
+necesidades 
+especiales o 
+diferencias culturales o 
+raciales en relación 
+con el resto de la 
+población escolar, 
+ofrece atención 
+especializada cuando 
+se requiere, adapta 
+metodologías y 
+espacios físicos, 
+recursos y establece 
+coo rdinación con otros 
+organismos para su 
+atención integral, 
+promueve y apoya sus 
+talentos y los hace 
+valorar por la 
+comunidad educativa.  
+ 
+ 
+ 
+
+===== PAGE 67 =====
+ 
+67 
+ ➢ Programa de formación ciudadana ( Pregunta 70) . 
+ 
+¿Cuenta con programas definidos de formación ciudadana en el que puedan participar todos los 
+estudiantes desde la diversidad que presenten?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El colegio no desarrolla 
+estrategias para la 
+formación de los 
+estudiantes en 
+democracia y 
+ciudadanía. En el PEI 
+no se indica la 
+participación y 
+pertenencia de los 
+estudiantes desde la 
+diversidad, en el 
+desarrollo de 
+Proyectos 
+Pedagógicos, no se 
+realizan ac ciones para 
+lograrlo.   El colegio desarrolla 
+estrategias para la 
+formación de los 
+estudiantes en 
+democracia y 
+ciudadanía. Algunos 
+docentes realizan 
+actividades 
+esporádicas alrededor 
+de la participación 
+democrática, el 
+ejercicio de derechos 
+humanos, la diversidad 
+y la convivencia  
+pacífica sin llegar a 
+impactar otras 
+instancias del 
+establecimiento 
+educativo.   El colegio desarrolla 
+estrategias para la 
+formación de los 
+estudiantes en 
+democracia y 
+ciudadanía que 
+aumentan el nivel de 
+pertenencia, afecto y 
+respeto por la 
+comunidad y la 
+diversidad. Los 
+principios establecidos 
+en el manual de 
+convivencia orientan y 
+regulan la convivencia 
+escolar y los conflictos 
+se resuelven siguiendo 
+una metodología 
+previamente adoptada 
+para toda la 
+comunidad. Directivos 
+y docentes planean y 
+ejecutan Proyectos 
+Pedagógicos de 
+manera 
+interdisciplinaria que 
+articulan acciones para 
+facili tar la participación 
+democrática de los 
+estudiantes desde la 
+diversidad, la 
+convivencia escolar y el 
+ejercicio de los 
+derechos humanos.   El colegio desarrolla 
+estrategias para la 
+formación de los 
+estudiantes en 
+democracia y 
+ciudadanía que 
+aumentan el nivel de 
+pertenencia, afecto y 
+respeto por la 
+comunidad y la 
+diversidad. Los 
+principios establecidos 
+en el manual de 
+convivencia orientan y 
+regulan la convivencia 
+escolar y la resolución 
+de conflictos genera 
+habilidades en este 
+campo para 
+enfrentarlos 
+adecuadamente. Los 
+proyectos pedagógicos 
+basados en el 
+desarrollo de 
+competencias 
+ciudadanas son 
+planeados y 
+desarrollados 
+participativamente por 
+directores, docentes, 
+estudiantes desde la 
+diversidad, las familias, 
+y responden a las 
+necesidades y 
+características del 
+contexto escolar.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 68 =====
+ 
+68 
+ ➢ Reconocimientos ( Pregunta 71) . 
+ 
+¿Cuenta con un sistema específico de reconocimiento a los estudiantes sobresalientes en diversas 
+áreas?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+La institución no 
+promueve el 
+reconocimiento 
+público a los 
+estudiantes 
+sobresalientes.   El colegio identifica 
+estudiantes 
+sobresalientes en 
+diversas áreas y 
+promueve su 
+reconocimiento 
+público, aunque no ha 
+definido las 
+condiciones en el 
+reglamento o Manual 
+de Convivencia.   El colegio ha creado 
+estímulos y 
+reconocimientos para 
+los estudiantes 
+sobresalientes en 
+diversas áreas. Los 
+requisitos y 
+procedimientos para 
+otorgarlos están en el 
+reglamento o Manual 
+de Convivencia.   Los estímulos y 
+reconocimientos 
+creados por el colegio 
+para los estudiantes 
+sobresalientes en 
+diversas áreas 
+incluyen, además, 
+becas, subsidios, 
+descuentos y otros. Los 
+requisitos y 
+procedimientos para 
+otorgarlos están en el 
+reglamento o Manual 
+de Conviven cia.  
+ 
+ 
+➢ Servicio de bienestar ( Pregunta 72) . 
+ 
+¿Existe un servicio de bienestar organizado?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+La institución no ofrece 
+servicios de nutrición, 
+enfermería, psicología 
+y terapia ocupacional.  
+ 
+Tampoco ofrece 
+programas específicos 
+de promoción de la 
+salud y prevención de 
+factores de riesgo 
+como el consumo de 
+sustancias 
+psicoactivas y otros 
+factores.   La institución ofrece 
+servicios de bienestar, 
+sin embargo, presenta 
+carencias como:   falta 
+de recursos, 
+programas o personal 
+adecuados para 
+atender las 
+necesidades de los 
+estudiantes en áreas 
+como salud mental, 
+apoyo académico, 
+orientación y servicios 
+soci ales.   El colegio ofrece 
+regularmente los 
+servicios de nutrición, 
+enfermería y terapia 
+ocupacional. Ofrece 
+programas específicos 
+de promoción de la 
+salud y prevención de 
+factores de riesgo.   Existen todos los 
+servicios de bienestar 
+mencionados y ofrece 
+programas específicos 
+de promoción de la 
+salud y prevención de 
+factores de riesgo, 
+sobre los cuales hace 
+seguimiento y 
+evaluación con 
+indicadores sobre el 
+estado de salud y 
+prevención de riesgos  
+en su población 
+estudiantil.  
+ 
+ 
+ 
+ 
+
+===== PAGE 69 =====
+ 
+69 
+ ➢ Plan escolar para la gestión del riesgo ( Pregunta 73) . 
+ 
+¿Existe un plan institucional de gestión del riesgo actualizado que contemple la diversidad de 
+características de la comunidad educativa, que permita mitigar las situaciones de riesgos?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El colegio no cuenta 
+con el plan escolar 
+para la gestión del 
+riesgo a la luz de la 
+normatividad vigente y 
+no contempla 
+estrategias y acciones 
+que consideren las 
+particularidades de 
+diferentes grupos 
+poblacionales y sus 
+niveles de 
+vulnerabilidad ante 
+emerge ncias.   El colegio ha elaborado 
+un plan de gestión de 
+riegos, pero no es 
+conocido y apropiado 
+por todos los miembros 
+de la comunidad 
+educativa, contempla 
+pocas acciones y no 
+prioriza riesgos 
+específicos para la 
+población diversa, ha 
+adaptado algunas 
+medidas de 
+prevención, mitigación, 
+respuesta y 
+recuperación a sus 
+necesidades 
+particulares. Se 
+realizan simulacros 
+esporádicos.   El colegio además de 
+tener un plan escolar 
+para la gestión del 
+riesgo, este contempla 
+la diversidad de la 
+comunidad educativa, 
+es conocido por ella, 
+tiene conformadas las 
+diferentes brigadas 
+reglamentarias y se 
+realizan simulacros 
+para poner a prueba y 
+mej orar el plan.   Además de lo anterior, 
+el colegio cuenta con 
+una cultura que 
+promueve la gestión 
+del riesgo, ha diseñado 
+estrategias y acciones 
+que consideran las 
+particularidades de 
+diferentes grupos 
+poblacionales y sus 
+niveles de 
+vulnerabilidad ante 
+emergencias, 
+identif icando, 
+analizando y priorizar 
+riesgos específicos 
+para cada grupo y ha 
+implementado 
+medidas de 
+prevención, mitigación, 
+respuesta frente a las 
+necesidades 
+particulares de la 
+comunidad educativa, 
+bajo los lineamientos 
+normativos vigentes y 
+experiencias exit osas.  
+ 
+ 
+Gestión administrativa y financiera  
+ 
+➢ Manual de funciones ( Pregunta 74) . 
+ 
+¿Existe manual de funciones o de perfiles, que contemple la formación y experiencia, donde se asignan 
+responsabilidades al personal del establecimiento?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El establecimiento no 
+tiene organigrama ni 
+manual de funciones  En el manual de 
+funciones no se 
+describen con claridad  En el manual de 
+funciones se describen 
+con claridad las  En el manual de 
+funciones se describen 
+con claridad las 
+
+===== PAGE 70 =====
+ 
+70 
+ para los distintos 
+cargos que desempeña 
+el personal.  las responsabilidades 
+de cada cargo y en la 
+práctica, en algunos 
+casos, se presenta 
+duplicidad de 
+funciones. En el 
+organigrama se 
+presentan las 
+relaciones entre las 
+distintas posiciones.  responsabilidades de 
+cada cargo y se 
+evidencia su aplicación 
+en el quehacer 
+cotidiano del colegio. 
+Sirve de referente para 
+evaluar el desempeño 
+del personal. En el 
+organigrama se 
+presentan las 
+relaciones entre las 
+distintas posiciones.  responsabilidades de 
+cada cargo, se 
+evidencia su aplicación 
+en el quehacer 
+cotidiano del colegio y 
+se revisa y ajusta 
+cuando las 
+necesidades lo 
+requieren. Además, 
+sirve como referente 
+para evaluar el 
+desempeño del 
+personal. En el 
+organigrama se 
+presentan l as 
+relaciones entre las 
+distintas posiciones.  
+ 
+ 
+➢ Selección e inducción de personal ( Pregunta 75) . 
+ 
+¿Existe un proceso diseñado, evaluado y estandarizado de selección e inducción de personal al 
+establecimiento?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El establecimiento no 
+aplica un proceso con 
+criterios definidos para 
+la selección, inducción 
+y reinducción del 
+personal de planta.   El establecimiento 
+sigue un proceso 
+informal de selección, 
+inducción y 
+reinducción del 
+personal de planta, 
+pero sin criterios 
+claramente definidos.   El establecimiento ha 
+diseñado y aplicado un 
+proceso de selección, 
+inducción y 
+reinducción del 
+personal de planta con 
+criterios claramente 
+establecidos que se 
+reflejan en los 
+instrumentos 
+elaborados para tal fin, 
+incluyendo perfiles 
+para cada uno de los 
+cargos.   El establecimiento ha 
+diseñado y aplicado un 
+proceso de selección, 
+inducción y 
+reinducción del 
+personal de planta con 
+criterios claramente 
+establecidos que se 
+reflejan en los 
+instrumentos 
+diseñados para tal fin. 
+El proceso se evalúa 
+periódicamente. Los 
+perfiles incluyen 
+competencias 
+generales y específicas 
+y requisitos de 
+educación y 
+experiencia.  
+ 
+ 
+ 
+ 
+
+===== PAGE 71 =====
+ 
+71 
+ ➢ Evaluación de desempeño ( Pregunta 76) . 
+ 
+¿Existe un proceso diseñado, evaluado y estandarizado de evaluación de desempeño del personal del 
+establecimiento?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+La evaluación de 
+desempeño del 
+personal no forma 
+parte de las actividades 
+programadas 
+institucionalmente.   La evaluación de 
+desempeño del 
+personal es 
+programada con 
+criterios definidos y 
+teniendo en cuenta las 
+funciones específicas; 
+están en diseño 
+instrumentos 
+específicos que 
+identifiquen los 
+resultados logrados, de 
+acuerdo con el manual 
+de funciones de cada 
+cargo.   La evaluación de 
+desempeño del 
+personal se realiza 
+mediante mecanismos 
+e instrumentos 
+específicos, acorde 
+con las funciones 
+específicas de cada 
+cargo.   La institución aplica 
+mecanismos e 
+instrumentos objetivos 
+y específicos en la 
+evaluación de 
+desempeño de todo el 
+personal de acuerdo 
+con las funciones 
+específicas de cada 
+cargo. Existen 
+mecanismos de 
+valoración y ajuste del 
+proceso y sus 
+resultados orienta n las 
+decisiones que afectan 
+al personal.  
+ 
+ 
+ 
+➢ Matrícula e inducción de nuevos estudiantes ( Pregunta 77) . 
+ 
+¿Existe un proceso diseñado y evaluado de matrícula e inducción de nuevos estudiantes, en donde se 
+contemplen apoyos y ajustes razonables para todas y todos los estudiantes desde la diversidad que 
+puedan presentar?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El establecimiento no 
+ha definido criterios 
+para el proceso de 
+ingreso y aceptación de 
+nuevos estudiantes y 
+no les hace ningún tipo 
+de inducción o 
+nivelación. No se 
+contemplan apoyos y 
+ajustes razonables 
+para todas y todos los 
+estudiantes desde la 
+diversid ad que puedan 
+presentar.   En la programación 
+institucional se 
+incluyen actividades de 
+inducción que no 
+cubren todos los 
+aspectos o no incluyen 
+criterios para su 
+aplicación, se han 
+incluido algunos 
+aspectos de apoyo a 
+los estudiantes desde 
+la diversidad que 
+puedan presentar, pero 
+aún está en desarrollo  El establecimiento 
+aplica un programa 
+organizado para la 
+inducción de nuevos 
+estudiantes, en los 
+aspectos disciplinares, 
+pedagógicos e 
+institucionales, se han 
+creado procesos 
+accesibles y 
+acogedores para todos 
+los estudiantes, 
+reconociendo y 
+valorando sus  Existe un programa 
+completo y organizado 
+de inducción para 
+todos los nuevos 
+alumnos y sus 
+familiares; procesos 
+accesibles y 
+acogedores para todos 
+los estudiantes, 
+reconociendo y 
+valorando sus 
+diferencias 
+individuales, 
+incorporando aspectos 
+
+===== PAGE 72 =====
+ 
+72 
+ el proceso con los 
+padres de familia.  diferencias 
+individuales, pero aún 
+se presentan algunas 
+falencias en el proceso 
+con las familias.  como la comunicación 
+clara y accesible, la 
+adaptación de 
+recursos y materiales, y 
+la formación del 
+personal para atender 
+las necesidades 
+específicas de cada 
+estudiante. Existen 
+mecanismos de 
+valoración y ajuste del 
+proceso, claramente 
+integrados en la 
+eval uación 
+institucional.  
+ 
+ 
+➢ Presupuesto ( Pregunta 78) . 
+ 
+¿Existe un proceso diseñado, evaluado y estandarizado de presupuesto?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El proceso de 
+presupuesto es un 
+ejercicio anual de 
+proyecciones sobre la 
+ejecución anterior; el 
+análisis de planeación 
+financiera se realiza 
+sobre grandes rubros 
+de ingresos y gastos. Su 
+elaboración no está 
+aún articulada con el 
+proceso de 
+formulación del Plan 
+Operativo Anual.   La elaboración del 
+presupuesto se realiza 
+de acuerdo con el 
+análisis financiero de 
+los requerimientos del 
+plan operativo anual de 
+las distintas 
+dependencias, pero 
+aún no se diseña la 
+distribución mensual 
+de ingresos y egresos; 
+los mecanismos de 
+seguimiento  
+presupuestal no están 
+sistematizados.   Existen 
+procedimientos 
+definidos para que 
+cada dependencia 
+elabore el presupuesto 
+acorde con las 
+actividades y metas 
+establecidas en el Plan 
+Operativo anual; la 
+distribución mensual 
+de ingresos y egresos 
+permite su análisis en 
+relación con los flujos 
+de ca ja. El uso del 
+proceso presupuestal 
+como instrumento de 
+gestión se evidencia en 
+la formulación de 
+metas realistas en el 
+corto plazo, para cuyo 
+cumplimiento está 
+garantizado el 
+suministro de 
+recursos.   El conjunto de 
+procedimientos de 
+proyección y 
+seguimiento 
+presupuestal se 
+aplican como 
+instrumento de 
+planeación y gestión 
+financiera, para 
+formular y ejecutar 
+tanto el Plan Operativo 
+Anual como el plan de 
+mejoramiento. Las 
+metas de mediano 
+plazo se acompa ñan de 
+un análisis financiero 
+viable y se hace 
+seguimiento a su 
+cumplimiento.  
+ 
+ 
+
+===== PAGE 73 =====
+ 
+73 
+ ➢ Contabilidad ( Pregunta 79) . 
+ 
+¿Existe un proceso diseñado, evaluado y estandarizado de contabilidad?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El establecimiento no 
+cumple con el requisito 
+de llevar los registros 
+contables de acuerdo 
+con las normas 
+vigentes.   La contabilidad se lleva 
+de manera organizada, 
+con los soportes y 
+requisitos 
+reglamentarios, y 
+diferencia claramente 
+servicios prestados, 
+pero el atraso de tres 
+meses o más en la 
+presentación de 
+informes impide su 
+utilización como 
+instrumento financiero.   La contabilidad se lleva 
+de manera organizada y 
+de acuerdo con las 
+normas vigentes y las 
+directivas disponen 
+oportunamente de los 
+informes contables, sin 
+embargo, no se 
+acompañan con 
+análisis financieros 
+que orienten las 
+decisiones de 
+mejoramiento 
+instituc ional.   Los informes 
+contables, realizados 
+en el marco de las 
+normas vigentes, están 
+disponibles 
+oportunamente y se 
+acompañan de análisis 
+de proyección 
+financiera suficiente 
+para la toma de 
+decisiones de corto y 
+largo plazo. La 
+contabilidad es 
+instrumento de manej o 
+financiero de la 
+institución y es 
+evidente la utilización 
+de sus resultados en 
+los planes de 
+mejoramiento 
+institucional. Los 
+informes contables 
+tienen visto bueno del 
+revisor fiscal o auditor 
+externo, cuando 
+aplique.  
+ 
+ 
+Si la institución no cuenta con un proceso diseñado y evaluado de contabilidad su puntaje es 0 puntos 
+y se clasifica en régimen controlado.  
+ 
+ 
+➢ Inventario y plan de adecuación y adquisición ( Pregunta 80) . 
+ 
+¿Existe un procedimiento establecido, evaluado y estandarizado que identifica oportunamente la 
+adecuación de la planta física y la adquisición de equipos y materiales?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El inventario de bienes 
+de la institución no 
+existe o está  La institución cuenta 
+con inventario 
+actualizado y completo  El inventario de 
+muebles y equipos 
+tiene establecido  El inventario, el plan de 
+compras y el plan de 
+mantenimiento 
+
+===== PAGE 74 =====
+ 
+74 
+ desactualizado e 
+incompleto. La compra 
+y mantenimiento de 
+elementos requeridos 
+por los procesos 
+pedagógicos y 
+administrativos no 
+cumple la 
+programación o ésta no 
+se ha establecido. El 
+mantenimiento de los 
+espacios pedagógicos 
+es insuficiente.  de muebles y equipos; 
+aunque el 
+mantenimiento y 
+adquisición de los 
+recursos de mayor 
+utilización no cumple 
+una programación se 
+observa el suministro 
+oportuno; los 
+mecanismos de 
+seguimiento y 
+corrección del estado 
+de los bienes están en 
+diseño.  claramente el estado 
+del bien y su 
+responsable.  
+ 
+Existe y se aplica un 
+plan de compras, 
+mantenimiento y baja 
+de los elementos 
+requeridos por el Plan 
+Operativo Anual y se 
+han establecido los 
+mecanismos de 
+seguimiento y 
+corrección del estado 
+de los bienes; sin 
+embargo, el plan de 
+mantenimiento 
+preventivo e stá en 
+diseño.  preventivo y correctivo 
+y las bajas son 
+procesos articulados 
+con los demás 
+instrumentos de 
+gestión institucional; 
+su aplicación 
+acompaña el 
+cumplimiento de las 
+metas del Plan 
+Operativo Anual y del 
+plan de mejoramiento 
+institucional de 
+mediano plazo.  
+ 
+ 
+➢ Política de recursos humanos y desarrollo de personal ( Pregunta 81) . 
+ 
+¿Cuenta la institución con una política de recursos humanos y desarrollo de personal?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+En la institución no 
+existen criterios para el 
+desarrollo del personal 
+en el campo de la salud 
+ocupacional ni de la 
+promoción laboral.   Ocasionalmente se 
+realizan acciones en 
+beneficio de la salud 
+ocupacional y de la 
+promoción laboral de 
+los empleados.   Con frecuencia se 
+aplican los criterios 
+definidos para el 
+desarrollo de los 
+empleados en el 
+campo de la salud 
+ocupacional y 
+promoción laboral.   Permanentemente se 
+aplican criterios 
+definidos para el 
+desarrollo de los 
+empleados en el 
+campo de la salud 
+ocupacional y 
+promoción laboral, 
+incluyendo incentivos 
+individuales y grupales, 
+lo que se manifiesta en 
+la satisfacción de los 
+empleados.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 75 =====
+ 
+75 
+ ➢ Planes de capacitación ( Pregunta 82) . 
+ 
+¿En la institución se organiza, promueve y apoya la capacitación del personal?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+Las actividades de 
+capacitación se 
+realizan más por 
+iniciativas individuales 
+que como actividades 
+promovidas y 
+organizadas por el 
+colegio.   El colegio organiza sus 
+procesos de 
+capacitación, de 
+acuerdo con sus 
+necesidades y apoya la 
+asistencia de sus 
+trabajadores a eventos 
+externos o internos que 
+correspondan a esa 
+programación, aunque 
+no cuenta con 
+mecanismos de 
+seguimiento de sus 
+resultados.   La capacitación de los 
+empleados es un 
+proceso programado 
+anualmente, de 
+acuerdo con los 
+requerimientos de las 
+metas establecidas en 
+el Plan Operativo 
+Anual. Existe un 
+proceso claro para 
+seleccionar a los 
+beneficiarios y los 
+informes presentados 
+son analiz ados a la luz 
+de los resultados 
+esperados en el 
+colegio.   La capacitación de los 
+empleados es un 
+proceso programado a 
+corto y mediano plazo, 
+con la participación de 
+directivos y docentes 
+acorde con los 
+lineamientos del PEI y 
+las metas establecidas 
+en el Plan Operativo 
+Anual. Existe un 
+proceso claro para 
+seleccion ar a los 
+beneficiarios y se 
+evalúa el impacto de la 
+formación en los 
+resultados 
+institucionales. La 
+institución organiza 
+capacitación interna en 
+forma sistemática 
+como un proceso 
+continuado con 
+objetivos de mediano 
+plazo.  
+ 
+ 
+ 
+➢ Estímulos al buen desempeño ( Pregunta 83) . 
+ 
+¿Se ha establecido un sistema de estímulos e incentivos al buen desempeño del personal?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+El colegio no ha creado 
+estímulos e incentivos 
+para el personal 
+directivo, docente y 
+administrativo que se 
+ha destacado por el 
+buen desempeño de 
+sus funciones.   El colegio ha creado 
+estímulos e incentivos 
+para el personal 
+directivo, docente y 
+administrativo que se 
+ha destacado por el 
+buen desempeño de 
+sus funciones, pero no 
+se han aplicado o se  Los estímulos e 
+incentivos que el 
+colegio ha creado 
+figuran en el 
+reglamento con los 
+requisitos y 
+procedimientos 
+claramente definidos 
+para otorgarlos y se  Los estímulos e 
+incentivos que el 
+colegio ha creado para 
+sus empleados 
+incluyen, además, 
+bonificaciones, viajes, 
+intercambios y becas 
+de capacitación totales 
+o parciales. Los 
+
+===== PAGE 76 =====
+ 
+76 
+ aplican 
+esporádicamente.  aplican regularmente.  criterios y 
+procedimientos para 
+otorgarlos están 
+establecidos en el 
+reglamento.  
+ 
+ 
+➢ Presencia Web ( Pregunta 84) . 
+ 
+¿En cuáles de las siguientes herramientas tiene presencia el establecimiento educativo en la web?  
+ 
+El establecimiento puede marcar una o varias opciones, los puntos se suman dependiendo de las 
+opciones que seleccione:  
+ 
+✓ Página web (Ejemplo: www.colegioxyz.edu.co).  
+✓ Correo Institucional (con dominio educativo o institucional. Ejemplo: 
+colegioxyz@colxzy.edu.co).  
+✓ Redes sociales (Ejemplo: Instagram @colegioxyz, TikTok , YouTube, Facebook).  
+ 
+Este indicador se califica según los siguientes rangos así:  
+Indicador  Rango de Valores  Puntaje  
+Presencia del EE en la WEB . No tiene  0 
+Página Web  1 
+Correo Institucional  1 
+Redes Sociales  1 
+Total  3 
+ 
+ 
+ 
+Evaluación institucional  
+ 
+ 
+➢ Saber 11 ( Pregunta 85) . 
+ 
+La categoría que obtuvo el establecimiento en las pruebas SABER 11 fue:  
+Indicador  Rango de Valores  Puntaje  
+Saber 11  A+ 10 
+A 8 
+B 5 
+C 2 
+D 0 
+No presenta pruebas Saber 11  0 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 77 =====
+ 
+77 
+ ➢ Sistema de evaluación institucional ( Pregunta 86) . 
+ 
+¿Existe un sistema participativo de evaluación institucional?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+La evaluación 
+institucional no se 
+realiza 
+participativamente, no 
+pasa de ser un reporte.   Se realiza la evaluación 
+institucional pero no se 
+utilizan sus resultados 
+para el mejoramiento 
+del colegio.   Se realiza la evaluación 
+institucional 
+periódicamente con la 
+participación de la 
+comunidad educativa. 
+La información que 
+produce la evaluación 
+es organizada y 
+alimenta la toma de 
+decisiones de las 
+distintas instancias.   Además de lo anterior, 
+la institución utiliza los 
+resultados para 
+elaborar planes de 
+mejoramiento 
+institucional, con 
+prioridades claras y 
+compartidas, en todos 
+los campos.  
+ 
+➢ Plan de mejoramiento institucional ( Pregunta 87) . 
+ 
+¿Se utilizan y analizan los resultados de la evaluación institucional para definir y desarrollar el plan de 
+mejoramiento institucional?  
+ 
+No existe   En desarrollo   Buenos resultados   Resultados 
+sobresalientes  
+La institución no ha 
+formulado un plan de 
+mejoramiento.   Se realizan algunas 
+acciones de 
+mejoramiento, pero 
+son aisladas y no 
+conforman un plan de 
+mejoramiento 
+institucional.   La institución ha 
+diseñado un plan de 
+mejoramiento con 
+acciones, metas, 
+responsables y 
+recursos definidos. En 
+su desarrollo todavía 
+se perciben obstáculos 
+que dificultan el logro 
+de las metas previstas.   El plan de 
+mejoramiento 
+institucional utiliza los 
+resultados de una 
+evaluación 
+institucional 
+sistemática y objetiva; 
+la movilización 
+organizada de la 
+comunidad educativa 
+hacia unas metas 
+compartidas se 
+evidencia en su 
+cumplimiento.  
+ 
+La puntuación para esta pregunta es:  
+Rango de Valores  Puntaje  
+No existe  0 
+En desarrollo  3 
+Buenos resultados  5 
+Resultados sobresalientes  8 
+ 
+ 
+
+===== PAGE 78 =====
+ 
+78 
+ 3.3 Clasificación de colegios en alguno de los regímenes establecidos en la 
+normatividad  
+ 
+Una vez diligenciado en su totalidad el Formulario 1A, el colegio se clasifica en uno de los regímenes 
+establecidos en el artículo 202 de la Ley 115 de 1994, así:  
+ 
+✓ Régimen de Libertad Regulada:  se clasifican en libertad regulada los establecimientos 
+educativos con altos puntajes en su autoevaluación institucional, o los que están certificados o 
+acreditados en un sistema o modelo de gestión de calidad.  
+ 
+✓ Régimen de Libertad Vigilada:  se clasifican en libertad vigilada los establecimientos 
+educativos que obtienen los puntajes intermedios. Este régimen se subdivide en 13 categorías, 
+denominadas V1, V2, V3 … hasta V13 y que dan cuenta de qué tan lejos o cerca se está de 
+alcanzar el punta je para clasificarse en régimen de libertad regulada, es decir, un colegio en V10 
+ofrece mejores condiciones en la prestación del servicio que uno clasificado en V5.  
+ 
+✓ Régimen Controlado:  se clasifican en régimen controlado los colegios con los puntajes más 
+bajos, los que son sancionados por la secretaría de educación o los que obtienen cero puntos 
+en alguno de los indicadores prioritarios.  
+ 
+La aplicación EVI clasifica a cada colegio según el puntaje total obtenido en la evaluación de los 
+recursos y de los procesos. En primer lugar, separa a los establecimientos educativos certificados en 
+calidad y a los que obtienen cero (0) en los indicadore s prioritarios, a continuación, realiza la 
+clasificación de los colegios o jardines de acuerdo con los puntajes obtenidos. Para hacerlo, asigna la 
+calificación correspondiente según la respuesta dada por el colegio a cada pregunta (indicador). 
+Algunas preg untas sólo aplican a colegios que ofrecen un determinado nivel, como es el caso de 
+servicio social obligatorio en el nivel de la media.  
+ 
+En las siguientes tablas se describe de modo general, la forma de calificación para los recursos (Tabla 
+1) y los procesos (Tabla 2) de los establecimientos que diligencian el formulario 1A. En la primera 
+columna de cada tabla están los números correspondie ntes a cada pregunta del formulario, una (x) en 
+cualquiera las siguientes tres columnas indica que la pregunta solo es válida para ese nivel: preescolar 
+(P), básica (B) o media (M).  
+ 
+En las siguientes seis columnas, se indica el puntaje máximo que se puede obtener por pregunta para 
+cada combinación posible de niveles ofrecida por un establecimiento educativo, por ejemplo, la 
+pregunta 19 califica con un valor máximo de dos puntos y solo  aplica a los colegios que ofrecen el nivel 
+preescolar, en tal sentido, se asigna un máximo puntaje de 2 a las combinaciones que incluyan este 
+nivel, de lo contrario el campo queda vacío. Finalmente, en la última columna, se indica si la pregunta 
+clasifica  al colegio en régimen controlado cuando su calificación es cero en los indicadores prioritarios.  
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 79 =====
+ 
+79 
+ Tabla 1.  Preguntas sobre recursos.  
+ 
+Pregunta  Sólo aplica si el 
+colegio ofrece:  Puntaje máximo aplicable de acuerdo con la 
+combinación de niveles del colegio  ¿Esta pregunta 
+clasifica en Régimen 
+Controlado?  P B M PBM (1)  PB (2)  PM (3)  BM (4)  B (5)  M (6)  
+1    3 2 2 2 1 1  
+2    10 10 10 10 10 10  
+3    5 5 5 5 5 5 Si 
+4    8 8 8 8 8 8  
+5    3 3 3 3 3 3  
+6    2 2 2 2 2 2  
+7    2 2 2 2 2 2  
+8    13 13 13 13 13 13 Si 
+9    3 3 3 3 3 3 Si 
+10    6 6 6 6 6 6  
+11    6 6 6 6 6 6  
+12    6 6 6 6 6 6  
+13    3 3 3 3 3 3 Si 
+14    3 3 3 3 3 3 Si 
+15    7 7 7 7 7 7  
+16    2 2 2 2 2 2  
+17    2 2 2 2 2 2  
+18    2 2 2 2 2 2  
+19    4 4 4 4 4 4  
+20 X   2 2 2     
+21    4 4 4 4 4 4  
+22    3 3 3 3 3 3  
+23    3 3 3 3 3 3  
+24    2 2 2 2 2 2  
+25    6 6 6 6 6 6  
+26   X 5  5 5  5  
+27    3 3 3 3 3 3  
+28    3 3 3 3 3 3  
+29    3 3 3 3 3 3  
+30    3 3 3 3 3 3  
+31    3 3 3 3 3 3  
+32    4 4 4 4 4 4  
+33    4 4 4 4 4 4  
+34    3 3 3 3 3 3  
+Total  Recursos  141  135  140  138  132  137   
+ 
+ 
+ 
+
+===== PAGE 80 =====
+ 
+80 
+ Tabla 2.  Preguntas sobre procesos y resultados.  
+ 
+Pregunta  Sólo aplica si el 
+colegio ofrece:  Puntaje máximo aplicable de acuerdo con la 
+combinación de niveles del colegio  ¿Si el valor es cero 
+en esta pregunta, se 
+clasifica en Régimen 
+Controlado?  P B M PBM (1)  PB (2)  PM (3)  BM (4)  B (5)  M (6)  
+35    3 3 3 3 3 3  
+36    3 3 3 3 3 3  
+37    3 3 3 3 3 3  
+38    3 3 3 3 3 3  
+39    3 3 3 3 3 3  
+40    4 4 4 4 4 4  
+41    3 3 3 3 3 3  
+42    3 3 3 3 3 3  
+43    3 3 3 3 3 3  
+44    3 3 3 3 3 3  
+45    3 3 3 3 3 3  
+46    3 3 3 3 3 3  
+47    3 3 3 3 3 3  
+48    3 3 3 3 3 3  
+49    3 3 3 3 3 3  
+50    3 3 3 3 3 3  
+51    3 3 3 3 3 3  
+52    3 3 3 3 3 3  
+53    3 3 3 3 3 3  
+54    3 3 3 3 3 3  
+55    3 3 3 3 3 3  
+56    3 3 3 3 3 3  
+57    3 3 3 3 3 3  
+58    3 3 3 3 3 3  
+59   X 3  3 3  3  
+60    3 3 3 3 3 3  
+61    3 3 3 3 3 3  
+62    3 3 3 3 3 3  
+63    3 3 3 3 3 3  
+64    3 3 3 3 3 3  
+65    3 3 3 3 3 3  
+66    3 3 3 3 3 3  
+67    3 3 3 3 3 3  
+68    3 3 3 3 3 3  
+69    3 3 3 3 3 3  
+70    3 3 3 3 3 3  
+71    3 3 3 3 3 3  
+
+===== PAGE 81 =====
+ 
+81 
+ 72    3 3 3 3 3 3  
+73    3 3 3 3 3 3  
+74    3 3 3 3 3 3  
+75    3 3 3 3 3 3  
+76    3 3 3 3 3 3  
+77    3 3 3 3 3 3  
+78    3 3 3 3 3 3  
+79    3 3 3 3 3 3 Si 
+80    3 3 3 3 3 3  
+81    3 3 3 3 3 3  
+82    3 3 3 3 3 3  
+83    3 3 3 3 3 3  
+84    3 3 3 3 3 3  
+85    10  10 10  10  
+86    3 3 3 3 3 3  
+87    8 8 8 8 8 8  
+Total Procesos  172  159  172  172  159  172   
+ 
+Como se puede ver, distintas combinaciones de niveles implican distintos puntajes totales, y por lo 
+tanto existe un cuadro de clasificación para cada establecimiento según los niveles que ofrezca, así:  
+ 
+✓ Si ofrece preescolar, básica y media, se clasifica en el Cuadro 1.  
+✓ Si ofrece preescolar y básica, en el Cuadro 2.  
+✓ Si ofrece preescolar y media, en el Cuadro 3.  
+✓ Si ofrece básica y media, en el Cuadro 4.  
+✓ Si ofrece sólo básica, en el Cuadro 5.  
+✓ Si ofrece sólo media, en el Cuadro 6.  
+ 
+A continuación, el sistema toma el puntaje de recursos y procesos obtenido por el colegio en su 
+autoevaluación y lo clasifica en un régimen y categoría de acuerdo con el cuadro que le corresponde.  
+ 
+ 
+Ejemplo:  
+ 
+Un establecimiento educativo que ofrece todos los niveles educativos (preescolar, básica y media) 
+obtuvo 70 puntos en recursos y 75 en procesos. Por ofrecer todos los niveles, debe buscar su 
+clasificación mediante el Cuadro 1.  
+ 
+El eje horizontal del cuadro representa el puntaje de recursos; puesto que el establecimiento educativo 
+obtuvo 70 en recursos se ubica en la cuadrícula ubicada entre 68 y 8 3 puntos en este eje.  
+ 
+Por otra parte, el eje vertical del cuadro representa la puntuación obtenida en procesos; como el 
+establecimiento obtuvo 75 puntos, se debe ubicar en el eje vertical entre los puntajes 65 y 81. 
+ 
+
+===== PAGE 82 =====
+ 
+82 
+ El cruce entre el puntaje obtenido en recursos (eje horizontal) y el puntaje obtenido en procesos (eje 
+vertical) ubica al establecimiento educativo en el régimen de libertad vigilada, en la categoría V6:  
+ 
+ 
+Cuadro 1.  
+ 
+ 
+  
+
+
+===== PAGE 83 =====
+ 
+83 
+ Cuadros para la clasificación  
+ 
+ 
+ 
+Cuadro 1. Colegios que ofrecen preescolar, básica y media  
+ 
+ 
+ 
+ 
+Cuadro 2. Colegios que ofrecen preescolar y básica  
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 84 =====
+ 
+84 
+  
+ 
+ 
+ 
+Cuadro 3. Colegios que ofrecen preescolar y media  
+ 
+ 
+ 
+ 
+Cuadro 4. Colegios que ofrecen básica y media  
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 85 =====
+ 
+85 
+  
+ 
+ 
+Cuadro 5. Colegios que ofrecen solo básica  
+ 
+ 
+ 
+Cuadro 6. Colegios que ofrecen solo media  
+ 
+ 
+En el anexo 1. Se encuentra un modelo de formulario 1A que puede imprimir para realizar un ejercicio 
+preliminar antes de consignar los datos en la aplicación EVI.  
+ 
+  
