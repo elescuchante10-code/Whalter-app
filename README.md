@@ -17,6 +17,10 @@ URL del sitio: **https://elescuchante10-code.github.io/Whalter-app/**
 
 Los enlaces `./styles.css`, `./app.js` y `./sourceText.js` son relativos y sirven bajo esa URL.
 
+### Si el workflow en Actions falla (rojo)
+
+En **Settings → Actions → General → Workflow permissions**, deja **Read and write** (o al menos que el token pueda escribir artefactos). El workflow declara `permissions:` explícitas; sin `actions: write` el paso de subida del sitio suele fallar.
+
 ### Si ves “404 — There isn’t a GitHub Pages site here”
 
 1. El repositorio debe ser **público** (o tu plan debe permitir Pages en privado).
