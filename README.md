@@ -13,11 +13,19 @@ Evaluación estática (HTML/CSS/JS) para la Guía 4 MEN: puntajes págs. 34–85
 
 ## GitHub Pages
 
-Cuando actives Pages en el repositorio (**Settings → Pages → Source: Deploy from a branch → `main` → `/ (root)`**), la app quedará en:
+URL del sitio: **https://elescuchante10-code.github.io/Whalter-app/**
 
-**https://elescuchante10-code.github.io/Whalter-app/**
+Los enlaces `./styles.css`, `./app.js` y `./sourceText.js` son relativos y sirven bajo esa URL.
 
-Los enlaces `./styles.css`, `./app.js` y `./sourceText.js` ya son relativos y funcionan bajo esa URL.
+### Si ves “404 — There isn’t a GitHub Pages site here”
+
+1. El repositorio debe ser **público** (o tu plan debe permitir Pages en privado).
+2. Ve a **Settings → Pages** del repo en GitHub.
+3. En **Build and deployment → Source**, elige **GitHub Actions** (no “Deploy from a branch” si quieres usar el flujo ya incluido).
+4. Abre la pestaña **Actions**: debe aparecer el workflow **Deploy GitHub Pages** en verde tras el último push a `main`. Si falló, abre el run y revisa el log.
+5. Espera 1–3 minutos tras el éxito y recarga la URL (a veces tarda un poco en propagarse).
+
+Alternativa sin Actions: en **Pages → Source** elige **Deploy from a branch**, rama **`main`**, carpeta **`/ (root)`**, guarda y espera el despliegue.
 
 ## Desarrollo local
 
