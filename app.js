@@ -408,7 +408,9 @@ function pointsFromOptionMapping(base, opt) {
       return null;
     }
     case 9: {
-      // Seguridad social: Sí=3, No=0
+      // Seguridad social: Tiene=3, No tiene=0
+      if (t === "tiene") return { points: 3, max: 3, explain: "Afiliación a seguridad social integral." };
+      if (t === "no tiene") return { points: 0, max: 3, explain: "No afiliado." };
       if (isYes) return { points: 3, max: 3, explain: "Afiliación a seguridad social integral." };
       if (isNo) return { points: 0, max: 3, explain: "No afiliado." };
       return null;
@@ -544,6 +546,14 @@ function pointsFromOptionMapping(base, opt) {
       if (t === "c") return { points: 2, max: 10, explain: "Categoría C." };
       if (t === "d") return { points: 0, max: 10, explain: "Categoría D." };
       if (t.includes("no presenta")) return { points: 0, max: 10, explain: "No presenta SABER 11." };
+      return null;
+    }
+    case 87: {
+      // Evaluación institucional (escala especial): 0/3/5/8
+      if (t.includes("no existe")) return { points: 0, max: 8, explain: "No existe." };
+      if (t.includes("insuficiente")) return { points: 3, max: 8, explain: "Insuficiente." };
+      if (t.includes("buenos resultados")) return { points: 5, max: 8, explain: "Buenos resultados." };
+      if (t.includes("sobresalientes")) return { points: 8, max: 8, explain: "Resultados sobresalientes." };
       return null;
     }
     default:
